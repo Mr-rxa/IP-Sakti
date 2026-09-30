@@ -1,0 +1,90 @@
+[
+  {
+    "chunk_id": "chunk-in-patents-3p",
+    "source_title": "Patents Act, 1970",
+    "section_or_article": "Section 3(p)",
+    "jurisdiction": "India",
+    "regime": "Patents",
+    "effective_date": "2024-03-15",
+    "doc_version": "2024-Rev1",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1392",
+    "text": "The following are not inventions within the meaning of this Act: (p) an invention which in effect, is traditional knowledge or which is an aggregation or duplication of known properties of traditionally known component or components. Inventions based on Ayurvedic formulations documented in First-Schedule authoritative treatises fall under this statutory bar."
+  },
+  {
+    "chunk_id": "chunk-in-patents-3e",
+    "source_title": "Patents Act, 1970",
+    "section_or_article": "Section 3(e)",
+    "jurisdiction": "India",
+    "regime": "Patents",
+    "effective_date": "2024-03-15",
+    "doc_version": "2024-Rev1",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1392",
+    "text": "A substance obtained by a mere admixture resulting only in the aggregation of the properties of the components thereof or a process for producing such substance is not patentable. For Ayurvedic herbal combinations, applicants must prove unexpected synergistic therapeutic effects beyond mere additive properties."
+  },
+  {
+    "chunk_id": "chunk-in-bda-sec6",
+    "source_title": "Biological Diversity Act, 2002 (as amended 2023)",
+    "section_or_article": "Section 6",
+    "jurisdiction": "India",
+    "regime": "ABS",
+    "effective_date": "2023-08-01",
+    "doc_version": "2023-Amend",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2046",
+    "text": "No person shall apply for any intellectual property right, by whatever name called, in or outside India for any invention based on any research or information on a biological resource obtained from India, without obtaining the previous approval of the National Biodiversity Authority before grant of such intellectual property right."
+  },
+  {
+    "chunk_id": "chunk-in-bda-sec7",
+    "source_title": "Biological Diversity Act, 2002 (as amended 2023)",
+    "section_or_article": "Section 7",
+    "jurisdiction": "India",
+    "regime": "ABS",
+    "effective_date": "2023-08-01",
+    "doc_version": "2023-Amend",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2046",
+    "text": "Prior intimation to State Biodiversity Board for obtaining biological resource for certain purposes: No person who is a citizen of India or a body corporate, association or organization which is registered in India shall obtain any biological resource for commercial utilization, or bio-survey and bio-utilization for commercial utilization except after giving prior intimation to the State Biodiversity Board concerned."
+  },
+  {
+    "chunk_id": "chunk-in-fssai-aahar",
+    "source_title": "Food Safety and Standards (Ayurveda Aahar) Regulations, 2022",
+    "section_or_article": "Regulation 3 & 4",
+    "jurisdiction": "India",
+    "regime": "Food",
+    "effective_date": "2022-05-05",
+    "doc_version": "2022-FSSAI",
+    "source_url": "https://www.fssai.gov.in/upload/uploadfiles/files/Gazette_Notification_Ayurveda_Aahar_09_05_2022.pdf",
+    "text": "Ayurveda Aahar refers to food prepared in accordance with the recipes or books/treatises listed in Schedule A of these regulations. It does not include Ayurvedic drugs or synthetic cosmetics. Ayurveda Aahar products must bear the designated Ayurveda Aahar logo and cannot make deceptive curative claims."
+  },
+  {
+    "chunk_id": "chunk-intl-trips-27",
+    "source_title": "TRIPS Agreement",
+    "section_or_article": "Article 27",
+    "jurisdiction": "International",
+    "regime": "Patents",
+    "effective_date": "1995-01-01",
+    "doc_version": "WTO-1995",
+    "source_url": "https://www.wto.org/english/docs_e/legal_e/27-trips_04c_e.htm",
+    "text": "Patents shall be available for any inventions, whether products or processes, in all fields of technology, provided that they are new, involve an inventive step and are capable of industrial application. Members may exclude from patentability diagnostic, therapeutic and surgical methods for the treatment of humans or animals."
+  },
+  {
+    "chunk_id": "chunk-intl-nagoya",
+    "source_title": "Nagoya Protocol on Access and Benefit-Sharing",
+    "section_or_article": "Article 5 & 6",
+    "jurisdiction": "International",
+    "regime": "ABS",
+    "effective_date": "2014-10-12",
+    "doc_version": "CBD-2014",
+    "source_url": "https://www.cbd.int/abs/text/",
+    "text": "Benefits arising from the utilization of genetic resources as well as subsequent applications and commercialization shall be shared in a fair and equitable way with the Party providing such resources. Access to traditional knowledge associated with genetic resources requires the prior informed consent or approval and involvement of indigenous and local communities."
+  },
+  {
+    "chunk_id": "chunk-intl-wipo-tk2024",
+    "source_title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge",
+    "section_or_article": "Article 3 (Mandatory Disclosure)",
+    "jurisdiction": "International",
+    "regime": "TK",
+    "effective_date": "2024-05-24",
+    "doc_version": "WIPO-2024",
+    "source_url": "https://www.wipo.int/treaties/en/ip/gratk/",
+    "text": "Contracting Parties shall require patent applicants to disclose the country of origin of genetic resources if the claimed invention is materially/directly based on genetic resources or associated traditional knowledge. If country of origin is unknown, the applicant must disclose the source from which the material was obtained."
+  }
+]

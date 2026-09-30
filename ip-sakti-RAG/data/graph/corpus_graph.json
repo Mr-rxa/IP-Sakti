@@ -1,0 +1,6060 @@
+{
+  "schema_version": "1.0.0",
+  "graph_type": "corpus_provenance_foundation",
+  "generated_from": "data/corpus/corpus.json",
+  "nodes": [
+    {
+      "id": "chunk:0180d886-2086-5036-8c33-9fe967671b54",
+      "kind": "source_chunk",
+      "label": "0180d886-2086-5036-8c33-9fe967671b54",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54"
+        ]
+      }
+    },
+    {
+      "id": "chunk:031e156f-058c-5353-b02e-df19b57e15f6",
+      "kind": "source_chunk",
+      "label": "031e156f-058c-5353-b02e-df19b57e15f6",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6"
+        ]
+      }
+    },
+    {
+      "id": "chunk:0338c300-2ee5-57f3-a977-4f287f4ef99a",
+      "kind": "source_chunk",
+      "label": "0338c300-2ee5-57f3-a977-4f287f4ef99a",
+      "provenance": {
+        "source_chunk_ids": [
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a"
+        ]
+      }
+    },
+    {
+      "id": "chunk:0697285a-10f2-53a0-980d-03b7c4d26c25",
+      "kind": "source_chunk",
+      "label": "0697285a-10f2-53a0-980d-03b7c4d26c25",
+      "provenance": {
+        "source_chunk_ids": [
+          "0697285a-10f2-53a0-980d-03b7c4d26c25"
+        ]
+      }
+    },
+    {
+      "id": "chunk:070bbaef-0140-52af-996d-b5b370714b69",
+      "kind": "source_chunk",
+      "label": "070bbaef-0140-52af-996d-b5b370714b69",
+      "provenance": {
+        "source_chunk_ids": [
+          "070bbaef-0140-52af-996d-b5b370714b69"
+        ]
+      }
+    },
+    {
+      "id": "chunk:07613636-6a7f-529a-83f0-22665ce5b9be",
+      "kind": "source_chunk",
+      "label": "07613636-6a7f-529a-83f0-22665ce5b9be",
+      "provenance": {
+        "source_chunk_ids": [
+          "07613636-6a7f-529a-83f0-22665ce5b9be"
+        ]
+      }
+    },
+    {
+      "id": "chunk:07b88286-6f71-59bd-949a-05ad7a28cd22",
+      "kind": "source_chunk",
+      "label": "07b88286-6f71-59bd-949a-05ad7a28cd22",
+      "provenance": {
+        "source_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22"
+        ]
+      }
+    },
+    {
+      "id": "chunk:083fd136-3cf1-52ca-9c56-15fa64c9506e",
+      "kind": "source_chunk",
+      "label": "083fd136-3cf1-52ca-9c56-15fa64c9506e",
+      "provenance": {
+        "source_chunk_ids": [
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e"
+        ]
+      }
+    },
+    {
+      "id": "chunk:08880731-93be-5bc7-8e60-b599dd77d421",
+      "kind": "source_chunk",
+      "label": "08880731-93be-5bc7-8e60-b599dd77d421",
+      "provenance": {
+        "source_chunk_ids": [
+          "08880731-93be-5bc7-8e60-b599dd77d421"
+        ]
+      }
+    },
+    {
+      "id": "chunk:0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+      "kind": "source_chunk",
+      "label": "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+      "provenance": {
+        "source_chunk_ids": [
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db"
+        ]
+      }
+    },
+    {
+      "id": "chunk:0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+      "kind": "source_chunk",
+      "label": "0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+      "provenance": {
+        "source_chunk_ids": [
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f"
+        ]
+      }
+    },
+    {
+      "id": "chunk:0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+      "kind": "source_chunk",
+      "label": "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+      "provenance": {
+        "source_chunk_ids": [
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf"
+        ]
+      }
+    },
+    {
+      "id": "chunk:0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+      "kind": "source_chunk",
+      "label": "0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+      "provenance": {
+        "source_chunk_ids": [
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9"
+        ]
+      }
+    },
+    {
+      "id": "chunk:119ecdc8-2238-584a-ae7f-21cc4da089f7",
+      "kind": "source_chunk",
+      "label": "119ecdc8-2238-584a-ae7f-21cc4da089f7",
+      "provenance": {
+        "source_chunk_ids": [
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7"
+        ]
+      }
+    },
+    {
+      "id": "chunk:11dfed34-2f40-5c42-b677-4296da7bfba2",
+      "kind": "source_chunk",
+      "label": "11dfed34-2f40-5c42-b677-4296da7bfba2",
+      "provenance": {
+        "source_chunk_ids": [
+          "11dfed34-2f40-5c42-b677-4296da7bfba2"
+        ]
+      }
+    },
+    {
+      "id": "chunk:15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+      "kind": "source_chunk",
+      "label": "15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+      "provenance": {
+        "source_chunk_ids": [
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5"
+        ]
+      }
+    },
+    {
+      "id": "chunk:18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+      "kind": "source_chunk",
+      "label": "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+      "provenance": {
+        "source_chunk_ids": [
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c"
+        ]
+      }
+    },
+    {
+      "id": "chunk:1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+      "kind": "source_chunk",
+      "label": "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+      "provenance": {
+        "source_chunk_ids": [
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7"
+        ]
+      }
+    },
+    {
+      "id": "chunk:1fabcd34-4928-5020-9a88-055e5ad7b338",
+      "kind": "source_chunk",
+      "label": "1fabcd34-4928-5020-9a88-055e5ad7b338",
+      "provenance": {
+        "source_chunk_ids": [
+          "1fabcd34-4928-5020-9a88-055e5ad7b338"
+        ]
+      }
+    },
+    {
+      "id": "chunk:202d7d72-177e-5b3f-a291-1ae616dbad5f",
+      "kind": "source_chunk",
+      "label": "202d7d72-177e-5b3f-a291-1ae616dbad5f",
+      "provenance": {
+        "source_chunk_ids": [
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f"
+        ]
+      }
+    },
+    {
+      "id": "chunk:289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+      "kind": "source_chunk",
+      "label": "289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+      "provenance": {
+        "source_chunk_ids": [
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8"
+        ]
+      }
+    },
+    {
+      "id": "chunk:32d87538-630a-587a-8de5-e90d496cb504",
+      "kind": "source_chunk",
+      "label": "32d87538-630a-587a-8de5-e90d496cb504",
+      "provenance": {
+        "source_chunk_ids": [
+          "32d87538-630a-587a-8de5-e90d496cb504"
+        ]
+      }
+    },
+    {
+      "id": "chunk:367da042-6cd9-5ac9-a122-63646fb9f9bf",
+      "kind": "source_chunk",
+      "label": "367da042-6cd9-5ac9-a122-63646fb9f9bf",
+      "provenance": {
+        "source_chunk_ids": [
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf"
+        ]
+      }
+    },
+    {
+      "id": "chunk:37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+      "kind": "source_chunk",
+      "label": "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+      "provenance": {
+        "source_chunk_ids": [
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509"
+        ]
+      }
+    },
+    {
+      "id": "chunk:38714a77-004f-5997-9014-86af2d0a82f0",
+      "kind": "source_chunk",
+      "label": "38714a77-004f-5997-9014-86af2d0a82f0",
+      "provenance": {
+        "source_chunk_ids": [
+          "38714a77-004f-5997-9014-86af2d0a82f0"
+        ]
+      }
+    },
+    {
+      "id": "chunk:397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+      "kind": "source_chunk",
+      "label": "397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+      "provenance": {
+        "source_chunk_ids": [
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12"
+        ]
+      }
+    },
+    {
+      "id": "chunk:3be917e6-899a-5772-ab1d-3416e108fca9",
+      "kind": "source_chunk",
+      "label": "3be917e6-899a-5772-ab1d-3416e108fca9",
+      "provenance": {
+        "source_chunk_ids": [
+          "3be917e6-899a-5772-ab1d-3416e108fca9"
+        ]
+      }
+    },
+    {
+      "id": "chunk:3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+      "kind": "source_chunk",
+      "label": "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+      "provenance": {
+        "source_chunk_ids": [
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d"
+        ]
+      }
+    },
+    {
+      "id": "chunk:41862743-26d9-552c-905c-36ecc2e34269",
+      "kind": "source_chunk",
+      "label": "41862743-26d9-552c-905c-36ecc2e34269",
+      "provenance": {
+        "source_chunk_ids": [
+          "41862743-26d9-552c-905c-36ecc2e34269"
+        ]
+      }
+    },
+    {
+      "id": "chunk:42923ba9-19ca-5469-9aaf-0a90157a0a35",
+      "kind": "source_chunk",
+      "label": "42923ba9-19ca-5469-9aaf-0a90157a0a35",
+      "provenance": {
+        "source_chunk_ids": [
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35"
+        ]
+      }
+    },
+    {
+      "id": "chunk:46017633-44c6-5f0c-90c0-4ea06b15a127",
+      "kind": "source_chunk",
+      "label": "46017633-44c6-5f0c-90c0-4ea06b15a127",
+      "provenance": {
+        "source_chunk_ids": [
+          "46017633-44c6-5f0c-90c0-4ea06b15a127"
+        ]
+      }
+    },
+    {
+      "id": "chunk:4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+      "kind": "source_chunk",
+      "label": "4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+      "provenance": {
+        "source_chunk_ids": [
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766"
+        ]
+      }
+    },
+    {
+      "id": "chunk:4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+      "kind": "source_chunk",
+      "label": "4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+      "provenance": {
+        "source_chunk_ids": [
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab"
+        ]
+      }
+    },
+    {
+      "id": "chunk:4e66f213-33c6-5a42-95f1-f950fbed6e49",
+      "kind": "source_chunk",
+      "label": "4e66f213-33c6-5a42-95f1-f950fbed6e49",
+      "provenance": {
+        "source_chunk_ids": [
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49"
+        ]
+      }
+    },
+    {
+      "id": "chunk:4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+      "kind": "source_chunk",
+      "label": "4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+      "provenance": {
+        "source_chunk_ids": [
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007"
+        ]
+      }
+    },
+    {
+      "id": "chunk:51aaeb23-39f7-51df-bba7-6f8e3cc894e8",
+      "kind": "source_chunk",
+      "label": "51aaeb23-39f7-51df-bba7-6f8e3cc894e8",
+      "provenance": {
+        "source_chunk_ids": [
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8"
+        ]
+      }
+    },
+    {
+      "id": "chunk:57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+      "kind": "source_chunk",
+      "label": "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+      "provenance": {
+        "source_chunk_ids": [
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30"
+        ]
+      }
+    },
+    {
+      "id": "chunk:5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+      "kind": "source_chunk",
+      "label": "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+      "provenance": {
+        "source_chunk_ids": [
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4"
+        ]
+      }
+    },
+    {
+      "id": "chunk:5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+      "kind": "source_chunk",
+      "label": "5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1"
+        ]
+      }
+    },
+    {
+      "id": "chunk:5e838f57-ff2c-561f-9f78-60c2afb5200a",
+      "kind": "source_chunk",
+      "label": "5e838f57-ff2c-561f-9f78-60c2afb5200a",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a"
+        ]
+      }
+    },
+    {
+      "id": "chunk:5ede1211-5979-5c49-acf9-bbc19c5dd118",
+      "kind": "source_chunk",
+      "label": "5ede1211-5979-5c49-acf9-bbc19c5dd118",
+      "provenance": {
+        "source_chunk_ids": [
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118"
+        ]
+      }
+    },
+    {
+      "id": "chunk:634f9ecd-07ac-577c-81f1-d1529beea73f",
+      "kind": "source_chunk",
+      "label": "634f9ecd-07ac-577c-81f1-d1529beea73f",
+      "provenance": {
+        "source_chunk_ids": [
+          "634f9ecd-07ac-577c-81f1-d1529beea73f"
+        ]
+      }
+    },
+    {
+      "id": "chunk:6484b7d7-be98-5859-854e-acf05d9457f0",
+      "kind": "source_chunk",
+      "label": "6484b7d7-be98-5859-854e-acf05d9457f0",
+      "provenance": {
+        "source_chunk_ids": [
+          "6484b7d7-be98-5859-854e-acf05d9457f0"
+        ]
+      }
+    },
+    {
+      "id": "chunk:6c6c69d6-291b-586c-b6a4-d1af925cd833",
+      "kind": "source_chunk",
+      "label": "6c6c69d6-291b-586c-b6a4-d1af925cd833",
+      "provenance": {
+        "source_chunk_ids": [
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833"
+        ]
+      }
+    },
+    {
+      "id": "chunk:743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+      "kind": "source_chunk",
+      "label": "743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+      "provenance": {
+        "source_chunk_ids": [
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe"
+        ]
+      }
+    },
+    {
+      "id": "chunk:75beec31-18c1-51d7-bfe0-e753a70e7f78",
+      "kind": "source_chunk",
+      "label": "75beec31-18c1-51d7-bfe0-e753a70e7f78",
+      "provenance": {
+        "source_chunk_ids": [
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78"
+        ]
+      }
+    },
+    {
+      "id": "chunk:77d94a3b-c5e0-5c0a-9971-1636ce184808",
+      "kind": "source_chunk",
+      "label": "77d94a3b-c5e0-5c0a-9971-1636ce184808",
+      "provenance": {
+        "source_chunk_ids": [
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808"
+        ]
+      }
+    },
+    {
+      "id": "chunk:7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+      "kind": "source_chunk",
+      "label": "7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+      "provenance": {
+        "source_chunk_ids": [
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071"
+        ]
+      }
+    },
+    {
+      "id": "chunk:7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+      "kind": "source_chunk",
+      "label": "7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+      "provenance": {
+        "source_chunk_ids": [
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a"
+        ]
+      }
+    },
+    {
+      "id": "chunk:8b9ecd11-1c2e-5753-b9b1-958be7132378",
+      "kind": "source_chunk",
+      "label": "8b9ecd11-1c2e-5753-b9b1-958be7132378",
+      "provenance": {
+        "source_chunk_ids": [
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378"
+        ]
+      }
+    },
+    {
+      "id": "chunk:8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+      "kind": "source_chunk",
+      "label": "8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+      "provenance": {
+        "source_chunk_ids": [
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7"
+        ]
+      }
+    },
+    {
+      "id": "chunk:8ea82236-7521-5538-99ad-f21b66903260",
+      "kind": "source_chunk",
+      "label": "8ea82236-7521-5538-99ad-f21b66903260",
+      "provenance": {
+        "source_chunk_ids": [
+          "8ea82236-7521-5538-99ad-f21b66903260"
+        ]
+      }
+    },
+    {
+      "id": "chunk:96e98fbb-eb20-505b-959e-0ec84bc3701c",
+      "kind": "source_chunk",
+      "label": "96e98fbb-eb20-505b-959e-0ec84bc3701c",
+      "provenance": {
+        "source_chunk_ids": [
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c"
+        ]
+      }
+    },
+    {
+      "id": "chunk:9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+      "kind": "source_chunk",
+      "label": "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+      "provenance": {
+        "source_chunk_ids": [
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c"
+        ]
+      }
+    },
+    {
+      "id": "chunk:99cad1d5-befd-52c6-8043-a436e01579b7",
+      "kind": "source_chunk",
+      "label": "99cad1d5-befd-52c6-8043-a436e01579b7",
+      "provenance": {
+        "source_chunk_ids": [
+          "99cad1d5-befd-52c6-8043-a436e01579b7"
+        ]
+      }
+    },
+    {
+      "id": "chunk:9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+      "kind": "source_chunk",
+      "label": "9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+      "provenance": {
+        "source_chunk_ids": [
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737"
+        ]
+      }
+    },
+    {
+      "id": "chunk:9abc772d-e8ba-57df-b27d-2198b241dd63",
+      "kind": "source_chunk",
+      "label": "9abc772d-e8ba-57df-b27d-2198b241dd63",
+      "provenance": {
+        "source_chunk_ids": [
+          "9abc772d-e8ba-57df-b27d-2198b241dd63"
+        ]
+      }
+    },
+    {
+      "id": "chunk:9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+      "kind": "source_chunk",
+      "label": "9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+      "provenance": {
+        "source_chunk_ids": [
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d"
+        ]
+      }
+    },
+    {
+      "id": "chunk:9e92ae2c-9a34-571b-8df1-c5472416db39",
+      "kind": "source_chunk",
+      "label": "9e92ae2c-9a34-571b-8df1-c5472416db39",
+      "provenance": {
+        "source_chunk_ids": [
+          "9e92ae2c-9a34-571b-8df1-c5472416db39"
+        ]
+      }
+    },
+    {
+      "id": "chunk:9f66997e-9cc1-57d7-85dc-81ef88d90740",
+      "kind": "source_chunk",
+      "label": "9f66997e-9cc1-57d7-85dc-81ef88d90740",
+      "provenance": {
+        "source_chunk_ids": [
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+        ]
+      }
+    },
+    {
+      "id": "chunk:a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+      "kind": "source_chunk",
+      "label": "a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+      "provenance": {
+        "source_chunk_ids": [
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710"
+        ]
+      }
+    },
+    {
+      "id": "chunk:a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+      "kind": "source_chunk",
+      "label": "a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+      "provenance": {
+        "source_chunk_ids": [
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8"
+        ]
+      }
+    },
+    {
+      "id": "chunk:a129056a-1482-5996-b075-916848409c76",
+      "kind": "source_chunk",
+      "label": "a129056a-1482-5996-b075-916848409c76",
+      "provenance": {
+        "source_chunk_ids": [
+          "a129056a-1482-5996-b075-916848409c76"
+        ]
+      }
+    },
+    {
+      "id": "chunk:a580ba99-10e7-50a7-978e-1767953fbf20",
+      "kind": "source_chunk",
+      "label": "a580ba99-10e7-50a7-978e-1767953fbf20",
+      "provenance": {
+        "source_chunk_ids": [
+          "a580ba99-10e7-50a7-978e-1767953fbf20"
+        ]
+      }
+    },
+    {
+      "id": "chunk:a8ebfecf-1a23-5f84-b531-e5a305f92691",
+      "kind": "source_chunk",
+      "label": "a8ebfecf-1a23-5f84-b531-e5a305f92691",
+      "provenance": {
+        "source_chunk_ids": [
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691"
+        ]
+      }
+    },
+    {
+      "id": "chunk:aa137068-c257-5bda-a34a-9961dcc403d0",
+      "kind": "source_chunk",
+      "label": "aa137068-c257-5bda-a34a-9961dcc403d0",
+      "provenance": {
+        "source_chunk_ids": [
+          "aa137068-c257-5bda-a34a-9961dcc403d0"
+        ]
+      }
+    },
+    {
+      "id": "chunk:afef1cd8-88de-5022-adf1-f7ff66f406b5",
+      "kind": "source_chunk",
+      "label": "afef1cd8-88de-5022-adf1-f7ff66f406b5",
+      "provenance": {
+        "source_chunk_ids": [
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5"
+        ]
+      }
+    },
+    {
+      "id": "chunk:b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+      "kind": "source_chunk",
+      "label": "b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0"
+        ]
+      }
+    },
+    {
+      "id": "chunk:b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+      "kind": "source_chunk",
+      "label": "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a"
+        ]
+      }
+    },
+    {
+      "id": "chunk:b5358b55-d573-5403-9763-52f9905d3efe",
+      "kind": "source_chunk",
+      "label": "b5358b55-d573-5403-9763-52f9905d3efe",
+      "provenance": {
+        "source_chunk_ids": [
+          "b5358b55-d573-5403-9763-52f9905d3efe"
+        ]
+      }
+    },
+    {
+      "id": "chunk:b659030c-c588-5561-8ea3-aaba0af7cf3a",
+      "kind": "source_chunk",
+      "label": "b659030c-c588-5561-8ea3-aaba0af7cf3a",
+      "provenance": {
+        "source_chunk_ids": [
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a"
+        ]
+      }
+    },
+    {
+      "id": "chunk:bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099",
+      "kind": "source_chunk",
+      "label": "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099",
+      "provenance": {
+        "source_chunk_ids": [
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+        ]
+      }
+    },
+    {
+      "id": "chunk:be731727-2cc6-5ef7-9caa-ee811b6b644e",
+      "kind": "source_chunk",
+      "label": "be731727-2cc6-5ef7-9caa-ee811b6b644e",
+      "provenance": {
+        "source_chunk_ids": [
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e"
+        ]
+      }
+    },
+    {
+      "id": "chunk:c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+      "kind": "source_chunk",
+      "label": "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+      "provenance": {
+        "source_chunk_ids": [
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79"
+        ]
+      }
+    },
+    {
+      "id": "chunk:c30b9d7c-0b93-5b2e-896e-4af809245419",
+      "kind": "source_chunk",
+      "label": "c30b9d7c-0b93-5b2e-896e-4af809245419",
+      "provenance": {
+        "source_chunk_ids": [
+          "c30b9d7c-0b93-5b2e-896e-4af809245419"
+        ]
+      }
+    },
+    {
+      "id": "chunk:c93b9463-b430-5df7-a09c-c2c98fae4943",
+      "kind": "source_chunk",
+      "label": "c93b9463-b430-5df7-a09c-c2c98fae4943",
+      "provenance": {
+        "source_chunk_ids": [
+          "c93b9463-b430-5df7-a09c-c2c98fae4943"
+        ]
+      }
+    },
+    {
+      "id": "chunk:cc5575ab-cebb-5339-ba17-cb2f69dda014",
+      "kind": "source_chunk",
+      "label": "cc5575ab-cebb-5339-ba17-cb2f69dda014",
+      "provenance": {
+        "source_chunk_ids": [
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014"
+        ]
+      }
+    },
+    {
+      "id": "chunk:cf6670c5-f385-5184-b174-085d9cdf0b25",
+      "kind": "source_chunk",
+      "label": "cf6670c5-f385-5184-b174-085d9cdf0b25",
+      "provenance": {
+        "source_chunk_ids": [
+          "cf6670c5-f385-5184-b174-085d9cdf0b25"
+        ]
+      }
+    },
+    {
+      "id": "chunk:d1d71897-a48b-524f-91d1-93125851075e",
+      "kind": "source_chunk",
+      "label": "d1d71897-a48b-524f-91d1-93125851075e",
+      "provenance": {
+        "source_chunk_ids": [
+          "d1d71897-a48b-524f-91d1-93125851075e"
+        ]
+      }
+    },
+    {
+      "id": "chunk:d94516d8-b7b7-59f4-9f4c-6f2e4adffe99",
+      "kind": "source_chunk",
+      "label": "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99",
+      "provenance": {
+        "source_chunk_ids": [
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+        ]
+      }
+    },
+    {
+      "id": "chunk:dbc701a4-af18-56c9-aa4c-b7134a5b1a6a",
+      "kind": "source_chunk",
+      "label": "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a",
+      "provenance": {
+        "source_chunk_ids": [
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+        ]
+      }
+    },
+    {
+      "id": "chunk:dd5cd790-d0a8-5360-93ed-0c1c90014408",
+      "kind": "source_chunk",
+      "label": "dd5cd790-d0a8-5360-93ed-0c1c90014408",
+      "provenance": {
+        "source_chunk_ids": [
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+        ]
+      }
+    },
+    {
+      "id": "chunk:ddc425e4-af55-5748-8f0a-314b3d181a51",
+      "kind": "source_chunk",
+      "label": "ddc425e4-af55-5748-8f0a-314b3d181a51",
+      "provenance": {
+        "source_chunk_ids": [
+          "ddc425e4-af55-5748-8f0a-314b3d181a51"
+        ]
+      }
+    },
+    {
+      "id": "chunk:e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+      "kind": "source_chunk",
+      "label": "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+      "provenance": {
+        "source_chunk_ids": [
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591"
+        ]
+      }
+    },
+    {
+      "id": "chunk:e5732788-58f8-5870-83c1-1f20f5c24ba8",
+      "kind": "source_chunk",
+      "label": "e5732788-58f8-5870-83c1-1f20f5c24ba8",
+      "provenance": {
+        "source_chunk_ids": [
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8"
+        ]
+      }
+    },
+    {
+      "id": "chunk:e6c0597c-82e8-5feb-8e27-73ef4c898373",
+      "kind": "source_chunk",
+      "label": "e6c0597c-82e8-5feb-8e27-73ef4c898373",
+      "provenance": {
+        "source_chunk_ids": [
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373"
+        ]
+      }
+    },
+    {
+      "id": "chunk:ea336ff3-6acc-5f4a-9a25-fc8c88f2d247",
+      "kind": "source_chunk",
+      "label": "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247",
+      "provenance": {
+        "source_chunk_ids": [
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+        ]
+      }
+    },
+    {
+      "id": "chunk:eb756a72-73a2-55d2-b6c8-3efefeb77369",
+      "kind": "source_chunk",
+      "label": "eb756a72-73a2-55d2-b6c8-3efefeb77369",
+      "provenance": {
+        "source_chunk_ids": [
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369"
+        ]
+      }
+    },
+    {
+      "id": "chunk:f1da8d7a-8bb6-53bf-8712-759a403b0c43",
+      "kind": "source_chunk",
+      "label": "f1da8d7a-8bb6-53bf-8712-759a403b0c43",
+      "provenance": {
+        "source_chunk_ids": [
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "id": "chunk:f95d6d3f-da90-51cd-b308-b6085c6b32fb",
+      "kind": "source_chunk",
+      "label": "f95d6d3f-da90-51cd-b308-b6085c6b32fb",
+      "provenance": {
+        "source_chunk_ids": [
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+        ]
+      }
+    },
+    {
+      "id": "chunk:fced3935-0964-5cc1-a533-09bde11e6455",
+      "kind": "source_chunk",
+      "label": "fced3935-0964-5cc1-a533-09bde11e6455",
+      "provenance": {
+        "source_chunk_ids": [
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    },
+    {
+      "id": "jurisdiction:India",
+      "kind": "jurisdiction",
+      "label": "India",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6",
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a",
+          "0697285a-10f2-53a0-980d-03b7c4d26c25",
+          "070bbaef-0140-52af-996d-b5b370714b69",
+          "07b88286-6f71-59bd-949a-05ad7a28cd22",
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e",
+          "08880731-93be-5bc7-8e60-b599dd77d421",
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7",
+          "11dfed34-2f40-5c42-b677-4296da7bfba2",
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+          "32d87538-630a-587a-8de5-e90d496cb504",
+          "38714a77-004f-5997-9014-86af2d0a82f0",
+          "3be917e6-899a-5772-ab1d-3416e108fca9",
+          "41862743-26d9-552c-905c-36ecc2e34269",
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+          "634f9ecd-07ac-577c-81f1-d1529beea73f",
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378",
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+          "8ea82236-7521-5538-99ad-f21b66903260",
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+          "99cad1d5-befd-52c6-8043-a436e01579b7",
+          "9abc772d-e8ba-57df-b27d-2198b241dd63",
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+          "9e92ae2c-9a34-571b-8df1-c5472416db39",
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740",
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+          "a129056a-1482-5996-b075-916848409c76",
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691",
+          "aa137068-c257-5bda-a34a-9961dcc403d0",
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5",
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+          "b5358b55-d573-5403-9763-52f9905d3efe",
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099",
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014",
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99",
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a",
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408",
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8",
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373",
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247",
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb",
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    },
+    {
+      "id": "jurisdiction:International",
+      "kind": "jurisdiction",
+      "label": "International",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54",
+          "07613636-6a7f-529a-83f0-22665ce5b9be",
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+          "1fabcd34-4928-5020-9a88-055e5ad7b338",
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f",
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf",
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35",
+          "46017633-44c6-5f0c-90c0-4ea06b15a127",
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49",
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8",
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a",
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118",
+          "6484b7d7-be98-5859-854e-acf05d9457f0",
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833",
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78",
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808",
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c",
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+          "a580ba99-10e7-50a7-978e-1767953fbf20",
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a",
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e",
+          "c30b9d7c-0b93-5b2e-896e-4af809245419",
+          "c93b9463-b430-5df7-a09c-c2c98fae4943",
+          "cf6670c5-f385-5184-b174-085d9cdf0b25",
+          "d1d71897-a48b-524f-91d1-93125851075e",
+          "ddc425e4-af55-5748-8f0a-314b3d181a51",
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369",
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "id": "regime:ABS",
+      "kind": "regime",
+      "label": "ABS",
+      "provenance": {
+        "source_chunk_ids": [
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f",
+          "38714a77-004f-5997-9014-86af2d0a82f0",
+          "3be917e6-899a-5772-ab1d-3416e108fca9",
+          "41862743-26d9-552c-905c-36ecc2e34269",
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a",
+          "634f9ecd-07ac-577c-81f1-d1529beea73f",
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78",
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+          "8ea82236-7521-5538-99ad-f21b66903260",
+          "aa137068-c257-5bda-a34a-9961dcc403d0",
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5",
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e",
+          "c93b9463-b430-5df7-a09c-c2c98fae4943",
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+        ]
+      }
+    },
+    {
+      "id": "regime:Advertising",
+      "kind": "regime",
+      "label": "Advertising",
+      "provenance": {
+        "source_chunk_ids": [
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014",
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+        ]
+      }
+    },
+    {
+      "id": "regime:Copyright",
+      "kind": "regime",
+      "label": "Copyright",
+      "provenance": {
+        "source_chunk_ids": [
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e",
+          "9e92ae2c-9a34-571b-8df1-c5472416db39",
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691",
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+        ]
+      }
+    },
+    {
+      "id": "regime:Designs",
+      "kind": "regime",
+      "label": "Designs",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6",
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808",
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+          "a129056a-1482-5996-b075-916848409c76",
+          "ddc425e4-af55-5748-8f0a-314b3d181a51"
+        ]
+      }
+    },
+    {
+      "id": "regime:DrugRegulation",
+      "kind": "regime",
+      "label": "DrugRegulation",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54",
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7",
+          "1fabcd34-4928-5020-9a88-055e5ad7b338",
+          "32d87538-630a-587a-8de5-e90d496cb504",
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49",
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a",
+          "c30b9d7c-0b93-5b2e-896e-4af809245419",
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+        ]
+      }
+    },
+    {
+      "id": "regime:Food",
+      "kind": "regime",
+      "label": "Food",
+      "provenance": {
+        "source_chunk_ids": [
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    },
+    {
+      "id": "regime:GI",
+      "kind": "regime",
+      "label": "GI",
+      "provenance": {
+        "source_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22",
+          "08880731-93be-5bc7-8e60-b599dd77d421",
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+        ]
+      }
+    },
+    {
+      "id": "regime:Patents",
+      "kind": "regime",
+      "label": "Patents",
+      "provenance": {
+        "source_chunk_ids": [
+          "07613636-6a7f-529a-83f0-22665ce5b9be",
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf",
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+          "6484b7d7-be98-5859-854e-acf05d9457f0",
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833",
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378",
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c",
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+          "9abc772d-e8ba-57df-b27d-2198b241dd63",
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+          "a580ba99-10e7-50a7-978e-1767953fbf20",
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+          "cf6670c5-f385-5184-b174-085d9cdf0b25",
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8",
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373",
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369",
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "id": "regime:PlantVariety",
+      "kind": "regime",
+      "label": "PlantVariety",
+      "provenance": {
+        "source_chunk_ids": [
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a",
+          "11dfed34-2f40-5c42-b677-4296da7bfba2",
+          "b5358b55-d573-5403-9763-52f9905d3efe",
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+        ]
+      }
+    },
+    {
+      "id": "regime:TK",
+      "kind": "regime",
+      "label": "TK",
+      "provenance": {
+        "source_chunk_ids": [
+          "0697285a-10f2-53a0-980d-03b7c4d26c25",
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35",
+          "46017633-44c6-5f0c-90c0-4ea06b15a127",
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8",
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+          "99cad1d5-befd-52c6-8043-a436e01579b7"
+        ]
+      }
+    },
+    {
+      "id": "regime:Trademarks",
+      "kind": "regime",
+      "label": "Trademarks",
+      "provenance": {
+        "source_chunk_ids": [
+          "070bbaef-0140-52af-996d-b5b370714b69",
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118",
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+          "d1d71897-a48b-524f-91d1-93125851075e",
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+        ]
+      }
+    },
+    {
+      "id": "section:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|Article 27 - Patentable subject matter",
+      "kind": "section",
+      "label": "Article 27 - Patentable subject matter",
+      "provenance": {
+        "source_chunk_ids": [
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4"
+        ]
+      }
+    },
+    {
+      "id": "section:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|Article 39 - Protection of undisclosed information",
+      "kind": "section",
+      "label": "Article 39 - Protection of undisclosed information",
+      "provenance": {
+        "source_chunk_ids": [
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf"
+        ]
+      }
+    },
+    {
+      "id": "section:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c"
+        ]
+      }
+    },
+    {
+      "id": "section:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12"
+        ]
+      }
+    },
+    {
+      "id": "section:Biological Diversity Rules, 2024|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "634f9ecd-07ac-577c-81f1-d1529beea73f"
+        ]
+      }
+    },
+    {
+      "id": "section:Biological Diversity Rules, 2024|Overview - Why this matters",
+      "kind": "section",
+      "label": "Overview - Why this matters",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a"
+        ]
+      }
+    },
+    {
+      "id": "section:Biological Diversity Rules, 2024|Rule 3 - Appointment of Chairperson",
+      "kind": "section",
+      "label": "Rule 3 - Appointment of Chairperson",
+      "provenance": {
+        "source_chunk_ids": [
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5"
+        ]
+      }
+    },
+    {
+      "id": "section:Biological Diversity Rules, 2024|Rule 7 - Resignation/vacancy of non-official members",
+      "kind": "section",
+      "label": "Rule 7 - Resignation/vacancy of non-official members",
+      "provenance": {
+        "source_chunk_ids": [
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+        ]
+      }
+    },
+    {
+      "id": "section:Botanical Drug Development - Guidance for Industry|Overview - Key concepts",
+      "kind": "section",
+      "label": "Overview - Key concepts",
+      "provenance": {
+        "source_chunk_ids": [
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a"
+        ]
+      }
+    },
+    {
+      "id": "section:Botanical Drug Development - Guidance for Industry|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "1fabcd34-4928-5020-9a88-055e5ad7b338"
+        ]
+      }
+    },
+    {
+      "id": "section:Botanical Drug Development - Guidance for Industry|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49"
+        ]
+      }
+    },
+    {
+      "id": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Administration",
+      "kind": "section",
+      "label": "Overview - Administration",
+      "provenance": {
+        "source_chunk_ids": [
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710"
+        ]
+      }
+    },
+    {
+      "id": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Benefits to applicants",
+      "kind": "section",
+      "label": "Overview - Benefits to applicants",
+      "provenance": {
+        "source_chunk_ids": [
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d"
+        ]
+      }
+    },
+    {
+      "id": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - International Depositary Authorities (IDAs)",
+      "kind": "section",
+      "label": "Overview - International Depositary Authorities (IDAs)",
+      "provenance": {
+        "source_chunk_ids": [
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007"
+        ]
+      }
+    },
+    {
+      "id": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Main feature",
+      "kind": "section",
+      "label": "Overview - Main feature",
+      "provenance": {
+        "source_chunk_ids": [
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369"
+        ]
+      }
+    },
+    {
+      "id": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "6484b7d7-be98-5859-854e-acf05d9457f0"
+        ]
+      }
+    },
+    {
+      "id": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Why it exists",
+      "kind": "section",
+      "label": "Overview - Why it exists",
+      "provenance": {
+        "source_chunk_ids": [
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "id": "section:Convention on Biological Diversity (CBD), 1992|Article 1 - Objectives (the CBD's three pillars)",
+      "kind": "section",
+      "label": "Article 1 - Objectives (the CBD's three pillars)",
+      "provenance": {
+        "source_chunk_ids": [
+          "c93b9463-b430-5df7-a09c-c2c98fae4943"
+        ]
+      }
+    },
+    {
+      "id": "section:Convention on Biological Diversity (CBD), 1992|Article 15 - Access to genetic resources",
+      "kind": "section",
+      "label": "Article 15 - Access to genetic resources",
+      "provenance": {
+        "source_chunk_ids": [
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db"
+        ]
+      }
+    },
+    {
+      "id": "section:Convention on Biological Diversity (CBD), 1992|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5"
+        ]
+      }
+    },
+    {
+      "id": "section:Convention on Biological Diversity (CBD), 1992|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a"
+        ]
+      }
+    },
+    {
+      "id": "section:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d"
+        ]
+      }
+    },
+    {
+      "id": "section:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|Section 3 - Prohibited advertisements",
+      "kind": "section",
+      "label": "Section 3 - Prohibited advertisements",
+      "provenance": {
+        "source_chunk_ids": [
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+        ]
+      }
+    },
+    {
+      "id": "section:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|Section 3 - what is prohibited",
+      "kind": "section",
+      "label": "Section 3 - what is prohibited",
+      "provenance": {
+        "source_chunk_ids": [
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014"
+        ]
+      }
+    },
+    {
+      "id": "section:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|Overview - Key features",
+      "kind": "section",
+      "label": "Overview - Key features",
+      "provenance": {
+        "source_chunk_ids": [
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    },
+    {
+      "id": "section:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1"
+        ]
+      }
+    },
+    {
+      "id": "section:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|Overview - Why it matters",
+      "kind": "section",
+      "label": "Overview - Why it matters",
+      "provenance": {
+        "source_chunk_ids": [
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7"
+        ]
+      }
+    },
+    {
+      "id": "section:Geographical Indications of Goods (Registration & Protection) Act, 1999|Overview - Key definitions (Section 2)",
+      "kind": "section",
+      "label": "Overview - Key definitions (Section 2)",
+      "provenance": {
+        "source_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22"
+        ]
+      }
+    },
+    {
+      "id": "section:Geographical Indications of Goods (Registration & Protection) Act, 1999|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+        ]
+      }
+    },
+    {
+      "id": "section:Geographical Indications of Goods (Registration & Protection) Act, 1999|Overview - Registration scheme",
+      "kind": "section",
+      "label": "Overview - Registration scheme",
+      "provenance": {
+        "source_chunk_ids": [
+          "08880731-93be-5bc7-8e60-b599dd77d421"
+        ]
+      }
+    },
+    {
+      "id": "section:Geographical Indications of Goods (Registration & Protection) Act, 1999|Overview - Relevance to traditional knowledge / Ayurveda",
+      "kind": "section",
+      "label": "Overview - Relevance to traditional knowledge / Ayurveda",
+      "provenance": {
+        "source_chunk_ids": [
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766"
+        ]
+      }
+    },
+    {
+      "id": "section:Guide to the Hague System|Chapter VI: Changes and renewals.",
+      "kind": "section",
+      "label": "Chapter VI: Changes and renewals.",
+      "provenance": {
+        "source_chunk_ids": [
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab"
+        ]
+      }
+    },
+    {
+      "id": "section:Guide to the Hague System|Overview - How it works",
+      "kind": "section",
+      "label": "Overview - How it works",
+      "provenance": {
+        "source_chunk_ids": [
+          "ddc425e4-af55-5748-8f0a-314b3d181a51"
+        ]
+      }
+    },
+    {
+      "id": "section:Guide to the Hague System|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808"
+        ]
+      }
+    },
+    {
+      "id": "section:Guide to the Madrid System|Chapter I: Introduction - general overview, advantages of the Madrid System.",
+      "kind": "section",
+      "label": "Chapter I: Introduction - general overview, advantages of the Madrid System.",
+      "provenance": {
+        "source_chunk_ids": [
+          "d1d71897-a48b-524f-91d1-93125851075e"
+        ]
+      }
+    },
+    {
+      "id": "section:Guide to the Madrid System|Chapter IV: Becoming a member of the Protocol.",
+      "kind": "section",
+      "label": "Chapter IV: Becoming a member of the Protocol.",
+      "provenance": {
+        "source_chunk_ids": [
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118"
+        ]
+      }
+    },
+    {
+      "id": "section:Guide to the Madrid System|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071"
+        ]
+      }
+    },
+    {
+      "id": "section:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|Overview - Key concepts",
+      "kind": "section",
+      "label": "Overview - Key concepts",
+      "provenance": {
+        "source_chunk_ids": [
+          "c30b9d7c-0b93-5b2e-896e-4af809245419"
+        ]
+      }
+    },
+    {
+      "id": "section:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509"
+        ]
+      }
+    },
+    {
+      "id": "section:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54"
+        ]
+      }
+    },
+    {
+      "id": "section:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|Article 5 - Fair and equitable benefit-sharing",
+      "kind": "section",
+      "label": "Article 5 - Fair and equitable benefit-sharing",
+      "provenance": {
+        "source_chunk_ids": [
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78"
+        ]
+      }
+    },
+    {
+      "id": "section:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|Article 6 - Access to genetic resources",
+      "kind": "section",
+      "label": "Article 6 - Access to genetic resources",
+      "provenance": {
+        "source_chunk_ids": [
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f"
+        ]
+      }
+    },
+    {
+      "id": "section:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|Article 7 - Access to associated traditional knowledge",
+      "kind": "section",
+      "label": "Article 7 - Access to associated traditional knowledge",
+      "provenance": {
+        "source_chunk_ids": [
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e"
+        ]
+      }
+    },
+    {
+      "id": "section:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a"
+        ]
+      }
+    },
+    {
+      "id": "section:Patent Cooperation Treaty (PCT)|Overview - International phase",
+      "kind": "section",
+      "label": "Overview - International phase",
+      "provenance": {
+        "source_chunk_ids": [
+          "cf6670c5-f385-5184-b174-085d9cdf0b25"
+        ]
+      }
+    },
+    {
+      "id": "section:Patent Cooperation Treaty (PCT)|Overview - Key advantages",
+      "kind": "section",
+      "label": "Overview - Key advantages",
+      "provenance": {
+        "source_chunk_ids": [
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737"
+        ]
+      }
+    },
+    {
+      "id": "section:Patent Cooperation Treaty (PCT)|Overview - National phase",
+      "kind": "section",
+      "label": "Overview - National phase",
+      "provenance": {
+        "source_chunk_ids": [
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833"
+        ]
+      }
+    },
+    {
+      "id": "section:Patent Cooperation Treaty (PCT)|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "a580ba99-10e7-50a7-978e-1767953fbf20"
+        ]
+      }
+    },
+    {
+      "id": "section:Patent Cooperation Treaty (PCT)|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "07613636-6a7f-529a-83f0-22665ce5b9be"
+        ]
+      }
+    },
+    {
+      "id": "section:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|Overview - Other structural points to know",
+      "kind": "section",
+      "label": "Overview - Other structural points to know",
+      "provenance": {
+        "source_chunk_ids": [
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+        ]
+      }
+    },
+    {
+      "id": "section:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "11dfed34-2f40-5c42-b677-4296da7bfba2"
+        ]
+      }
+    },
+    {
+      "id": "section:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "b5358b55-d573-5403-9763-52f9905d3efe"
+        ]
+      }
+    },
+    {
+      "id": "section:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|Section 39 - Farmers' Rights (core provisions)",
+      "kind": "section",
+      "label": "Section 39 - Farmers' Rights (core provisions)",
+      "provenance": {
+        "source_chunk_ids": [
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a"
+        ]
+      }
+    },
+    {
+      "id": "section:The Biological Diversity Act, 2002|Overview - Key definitions (Section 2)",
+      "kind": "section",
+      "label": "Overview - Key definitions (Section 2)",
+      "provenance": {
+        "source_chunk_ids": [
+          "3be917e6-899a-5772-ab1d-3416e108fca9"
+        ]
+      }
+    },
+    {
+      "id": "section:The Biological Diversity Act, 2002|Overview - Key operative provisions",
+      "kind": "section",
+      "label": "Overview - Key operative provisions",
+      "provenance": {
+        "source_chunk_ids": [
+          "38714a77-004f-5997-9014-86af2d0a82f0"
+        ]
+      }
+    },
+    {
+      "id": "section:The Biological Diversity Act, 2002|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "aa137068-c257-5bda-a34a-9961dcc403d0"
+        ]
+      }
+    },
+    {
+      "id": "section:The Biological Diversity Act, 2002|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "8ea82236-7521-5538-99ad-f21b66903260"
+        ]
+      }
+    },
+    {
+      "id": "section:The Biological Diversity Act, 2002|Overview - Three-tier institutional structure",
+      "kind": "section",
+      "label": "Overview - Three-tier institutional structure",
+      "provenance": {
+        "source_chunk_ids": [
+          "41862743-26d9-552c-905c-36ecc2e34269"
+        ]
+      }
+    },
+    {
+      "id": "section:The Copyright Act, 1957|Overview - Key definitions (Section 2)",
+      "kind": "section",
+      "label": "Overview - Key definitions (Section 2)",
+      "provenance": {
+        "source_chunk_ids": [
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e"
+        ]
+      }
+    },
+    {
+      "id": "section:The Copyright Act, 1957|Overview - Key scheme points",
+      "kind": "section",
+      "label": "Overview - Key scheme points",
+      "provenance": {
+        "source_chunk_ids": [
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+        ]
+      }
+    },
+    {
+      "id": "section:The Copyright Act, 1957|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "9e92ae2c-9a34-571b-8df1-c5472416db39"
+        ]
+      }
+    },
+    {
+      "id": "section:The Copyright Act, 1957|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691"
+        ]
+      }
+    },
+    {
+      "id": "section:The Designs Act, 2000|Overview - Key definitions (Section 2)",
+      "kind": "section",
+      "label": "Overview - Key definitions (Section 2)",
+      "provenance": {
+        "source_chunk_ids": [
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8"
+        ]
+      }
+    },
+    {
+      "id": "section:The Designs Act, 2000|Overview - Key scheme points",
+      "kind": "section",
+      "label": "Overview - Key scheme points",
+      "provenance": {
+        "source_chunk_ids": [
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8"
+        ]
+      }
+    },
+    {
+      "id": "section:The Designs Act, 2000|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "a129056a-1482-5996-b075-916848409c76"
+        ]
+      }
+    },
+    {
+      "id": "section:The Designs Act, 2000|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6"
+        ]
+      }
+    },
+    {
+      "id": "section:The Drugs and Cosmetics Act, 1940|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7"
+        ]
+      }
+    },
+    {
+      "id": "section:The Drugs and Cosmetics Act, 1940|Overview - Why it matters",
+      "kind": "section",
+      "label": "Overview - Why it matters",
+      "provenance": {
+        "source_chunk_ids": [
+          "32d87538-630a-587a-8de5-e90d496cb504"
+        ]
+      }
+    },
+    {
+      "id": "section:The Drugs and Cosmetics Act, 1940|Section 3 - key definitions",
+      "kind": "section",
+      "label": "Section 3 - key definitions",
+      "provenance": {
+        "source_chunk_ids": [
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+        ]
+      }
+    },
+    {
+      "id": "section:The Patents Act, 1970|Overview - Chapter map (23 chapters)",
+      "kind": "section",
+      "label": "Overview - Chapter map (23 chapters)",
+      "provenance": {
+        "source_chunk_ids": [
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf"
+        ]
+      }
+    },
+    {
+      "id": "section:The Patents Act, 1970|Overview - Context",
+      "kind": "section",
+      "label": "Overview - Context",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0"
+        ]
+      }
+    },
+    {
+      "id": "section:The Patents Act, 1970|Overview - Key concepts to remember",
+      "kind": "section",
+      "label": "Overview - Key concepts to remember",
+      "provenance": {
+        "source_chunk_ids": [
+          "9abc772d-e8ba-57df-b27d-2198b241dd63"
+        ]
+      }
+    },
+    {
+      "id": "section:The Patents Act, 1970|Overview - Quick recap for exams",
+      "kind": "section",
+      "label": "Overview - Quick recap for exams",
+      "provenance": {
+        "source_chunk_ids": [
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591"
+        ]
+      }
+    },
+    {
+      "id": "section:The Patents Act, 1970|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8"
+        ]
+      }
+    },
+    {
+      "id": "section:The Patents Act, 1970|Section 3(c) - Discoveries excluded",
+      "kind": "section",
+      "label": "Section 3(c) - Discoveries excluded",
+      "provenance": {
+        "source_chunk_ids": [
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378"
+        ]
+      }
+    },
+    {
+      "id": "section:The Patents Act, 1970|Section 3(d) - The 'known substance' / evergreening bar",
+      "kind": "section",
+      "label": "Section 3(d) - The 'known substance' / evergreening bar",
+      "provenance": {
+        "source_chunk_ids": [
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373"
+        ]
+      }
+    },
+    {
+      "id": "section:The Patents Act, 1970|Section 3(p) - Traditional knowledge bar",
+      "kind": "section",
+      "label": "Section 3(p) - Traditional knowledge bar",
+      "provenance": {
+        "source_chunk_ids": [
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c"
+        ]
+      }
+    },
+    {
+      "id": "section:The Trade Marks Act, 1999|Overview - Key definitions (Section 2)",
+      "kind": "section",
+      "label": "Overview - Key definitions (Section 2)",
+      "provenance": {
+        "source_chunk_ids": [
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30"
+        ]
+      }
+    },
+    {
+      "id": "section:The Trade Marks Act, 1999|Overview - Key scheme points",
+      "kind": "section",
+      "label": "Overview - Key scheme points",
+      "provenance": {
+        "source_chunk_ids": [
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79"
+        ]
+      }
+    },
+    {
+      "id": "section:The Trade Marks Act, 1999|Overview - Purpose",
+      "kind": "section",
+      "label": "Overview - Purpose",
+      "provenance": {
+        "source_chunk_ids": [
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+        ]
+      }
+    },
+    {
+      "id": "section:The Trade Marks Act, 1999|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "070bbaef-0140-52af-996d-b5b370714b69"
+        ]
+      }
+    },
+    {
+      "id": "section:Traditional Knowledge Digital Library (TKDL)|Overview - Access and impact",
+      "kind": "section",
+      "label": "Overview - Access and impact",
+      "provenance": {
+        "source_chunk_ids": [
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe"
+        ]
+      }
+    },
+    {
+      "id": "section:Traditional Knowledge Digital Library (TKDL)|Overview - How it works",
+      "kind": "section",
+      "label": "Overview - How it works",
+      "provenance": {
+        "source_chunk_ids": [
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9"
+        ]
+      }
+    },
+    {
+      "id": "section:Traditional Knowledge Digital Library (TKDL)|Overview - Significance",
+      "kind": "section",
+      "label": "Overview - Significance",
+      "provenance": {
+        "source_chunk_ids": [
+          "99cad1d5-befd-52c6-8043-a436e01579b7"
+        ]
+      }
+    },
+    {
+      "id": "section:Traditional Knowledge Digital Library (TKDL)|Overview - What it is",
+      "kind": "section",
+      "label": "Overview - What it is",
+      "provenance": {
+        "source_chunk_ids": [
+          "0697285a-10f2-53a0-980d-03b7c4d26c25"
+        ]
+      }
+    },
+    {
+      "id": "section:Traditional Knowledge Digital Library (TKDL)|Overview - Why it was needed",
+      "kind": "section",
+      "label": "Overview - Why it was needed",
+      "provenance": {
+        "source_chunk_ids": [
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7"
+        ]
+      }
+    },
+    {
+      "id": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Adoption and entry into force",
+      "kind": "section",
+      "label": "Overview - Adoption and entry into force",
+      "provenance": {
+        "source_chunk_ids": [
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35"
+        ]
+      }
+    },
+    {
+      "id": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Mandatory patent disclosure requirement (core obligation)",
+      "kind": "section",
+      "label": "Overview - Mandatory patent disclosure requirement (core obligation)",
+      "provenance": {
+        "source_chunk_ids": [
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f"
+        ]
+      }
+    },
+    {
+      "id": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Objectives",
+      "kind": "section",
+      "label": "Overview - Objectives",
+      "provenance": {
+        "source_chunk_ids": [
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c"
+        ]
+      }
+    },
+    {
+      "id": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Other key features",
+      "kind": "section",
+      "label": "Overview - Other key features",
+      "provenance": {
+        "source_chunk_ids": [
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8"
+        ]
+      }
+    },
+    {
+      "id": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Relevance to IP/TK theme",
+      "kind": "section",
+      "label": "Overview - Relevance to IP/TK theme",
+      "provenance": {
+        "source_chunk_ids": [
+          "46017633-44c6-5f0c-90c0-4ea06b15a127"
+        ]
+      }
+    },
+    {
+      "id": "source:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|International|https://www.wto.org/english/docs_e/legal_e/27-trips.pdf",
+      "kind": "source",
+      "label": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+      "provenance": {
+        "source_chunk_ids": [
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf",
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c"
+        ]
+      }
+    },
+    {
+      "id": "source:Biological Diversity Rules, 2024|India|https://www.indiacode.nic.in/",
+      "kind": "source",
+      "label": "Biological Diversity Rules, 2024",
+      "provenance": {
+        "source_chunk_ids": [
+          "634f9ecd-07ac-577c-81f1-d1529beea73f",
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5",
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+        ]
+      }
+    },
+    {
+      "id": "source:Botanical Drug Development - Guidance for Industry|International|https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry",
+      "kind": "source",
+      "label": "Botanical Drug Development - Guidance for Industry",
+      "provenance": {
+        "source_chunk_ids": [
+          "1fabcd34-4928-5020-9a88-055e5ad7b338",
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49",
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a"
+        ]
+      }
+    },
+    {
+      "id": "source:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|International|https://www.wipo.int/treaties/en/registration/budapest/",
+      "kind": "source",
+      "label": "Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure",
+      "provenance": {
+        "source_chunk_ids": [
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+          "6484b7d7-be98-5859-854e-acf05d9457f0",
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369",
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "id": "source:Convention on Biological Diversity (CBD), 1992|International|https://www.cbd.int/convention/text/",
+      "kind": "source",
+      "label": "Convention on Biological Diversity (CBD), 1992",
+      "provenance": {
+        "source_chunk_ids": [
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+          "c93b9463-b430-5df7-a09c-c2c98fae4943"
+        ]
+      }
+    },
+    {
+      "id": "source:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|India|https://www.indiacode.nic.in/",
+      "kind": "source",
+      "label": "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+      "provenance": {
+        "source_chunk_ids": [
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014",
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+        ]
+      }
+    },
+    {
+      "id": "source:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|India|https://fssai.gov.in/",
+      "kind": "source",
+      "label": "Food Safety and Standards (Ayurveda Aahara) Regulations, 2022",
+      "provenance": {
+        "source_chunk_ids": [
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    },
+    {
+      "id": "source:Geographical Indications of Goods (Registration & Protection) Act, 1999|India|https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf",
+      "kind": "source",
+      "label": "Geographical Indications of Goods (Registration & Protection) Act, 1999",
+      "provenance": {
+        "source_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22",
+          "08880731-93be-5bc7-8e60-b599dd77d421",
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+        ]
+      }
+    },
+    {
+      "id": "source:Guide to the Hague System|International|https://www.wipo.int/hague/en/",
+      "kind": "source",
+      "label": "Guide to the Hague System",
+      "provenance": {
+        "source_chunk_ids": [
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808",
+          "ddc425e4-af55-5748-8f0a-314b3d181a51"
+        ]
+      }
+    },
+    {
+      "id": "source:Guide to the Madrid System|International|https://www.wipo.int/madrid/en/",
+      "kind": "source",
+      "label": "Guide to the Madrid System",
+      "provenance": {
+        "source_chunk_ids": [
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118",
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+          "d1d71897-a48b-524f-91d1-93125851075e"
+        ]
+      }
+    },
+    {
+      "id": "source:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|International|https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products",
+      "kind": "source",
+      "label": "Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54",
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+          "c30b9d7c-0b93-5b2e-896e-4af809245419"
+        ]
+      }
+    },
+    {
+      "id": "source:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|International|https://www.cbd.int/abs/",
+      "kind": "source",
+      "label": "Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization",
+      "provenance": {
+        "source_chunk_ids": [
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f",
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a",
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78",
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e"
+        ]
+      }
+    },
+    {
+      "id": "source:Patent Cooperation Treaty (PCT)|International|https://www.wipo.int/pct/en/texts/index.html",
+      "kind": "source",
+      "label": "Patent Cooperation Treaty (PCT)",
+      "provenance": {
+        "source_chunk_ids": [
+          "07613636-6a7f-529a-83f0-22665ce5b9be",
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833",
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+          "a580ba99-10e7-50a7-978e-1767953fbf20",
+          "cf6670c5-f385-5184-b174-085d9cdf0b25"
+        ]
+      }
+    },
+    {
+      "id": "source:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|India|https://www.indiacode.nic.in/",
+      "kind": "source",
+      "label": "Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001",
+      "provenance": {
+        "source_chunk_ids": [
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a",
+          "11dfed34-2f40-5c42-b677-4296da7bfba2",
+          "b5358b55-d573-5403-9763-52f9905d3efe",
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+        ]
+      }
+    },
+    {
+      "id": "source:The Biological Diversity Act, 2002|India|https://www.indiacode.nic.in/bitstream/123456789/21545/1/the_biological_diversity_act,_2002.pdf",
+      "kind": "source",
+      "label": "The Biological Diversity Act, 2002",
+      "provenance": {
+        "source_chunk_ids": [
+          "38714a77-004f-5997-9014-86af2d0a82f0",
+          "3be917e6-899a-5772-ab1d-3416e108fca9",
+          "41862743-26d9-552c-905c-36ecc2e34269",
+          "8ea82236-7521-5538-99ad-f21b66903260",
+          "aa137068-c257-5bda-a34a-9961dcc403d0"
+        ]
+      }
+    },
+    {
+      "id": "source:The Copyright Act, 1957|India|https://www.indiacode.nic.in/",
+      "kind": "source",
+      "label": "The Copyright Act, 1957",
+      "provenance": {
+        "source_chunk_ids": [
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e",
+          "9e92ae2c-9a34-571b-8df1-c5472416db39",
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691",
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+        ]
+      }
+    },
+    {
+      "id": "source:The Designs Act, 2000|India|https://www.indiacode.nic.in/",
+      "kind": "source",
+      "label": "The Designs Act, 2000",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6",
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+          "a129056a-1482-5996-b075-916848409c76"
+        ]
+      }
+    },
+    {
+      "id": "source:The Drugs and Cosmetics Act, 1940|India|https://www.indiacode.nic.in/bitstream/123456789/18562/1/the_drugs_and_cosmetics_act,_1940.pdf",
+      "kind": "source",
+      "label": "The Drugs and Cosmetics Act, 1940",
+      "provenance": {
+        "source_chunk_ids": [
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7",
+          "32d87538-630a-587a-8de5-e90d496cb504",
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+        ]
+      }
+    },
+    {
+      "id": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "kind": "source",
+      "label": "The Patents Act, 1970",
+      "provenance": {
+        "source_chunk_ids": [
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378",
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+          "9abc772d-e8ba-57df-b27d-2198b241dd63",
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8",
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373"
+        ]
+      }
+    },
+    {
+      "id": "source:The Trade Marks Act, 1999|India|https://www.indiacode.nic.in/",
+      "kind": "source",
+      "label": "The Trade Marks Act, 1999",
+      "provenance": {
+        "source_chunk_ids": [
+          "070bbaef-0140-52af-996d-b5b370714b69",
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+        ]
+      }
+    },
+    {
+      "id": "source:Traditional Knowledge Digital Library (TKDL)|India|https://www.csir.res.in/en/documents/tkdl",
+      "kind": "source",
+      "label": "Traditional Knowledge Digital Library (TKDL)",
+      "provenance": {
+        "source_chunk_ids": [
+          "0697285a-10f2-53a0-980d-03b7c4d26c25",
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+          "99cad1d5-befd-52c6-8043-a436e01579b7"
+        ]
+      }
+    },
+    {
+      "id": "source:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|International|https://www.wipo.int/en/web/treaties/ip/gratk/index",
+      "kind": "source",
+      "label": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)",
+      "provenance": {
+        "source_chunk_ids": [
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35",
+          "46017633-44c6-5f0c-90c0-4ea06b15a127",
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8"
+        ]
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "chunk:0180d886-2086-5036-8c33-9fe967671b54",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0180d886-2086-5036-8c33-9fe967671b54",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0180d886-2086-5036-8c33-9fe967671b54",
+      "target": "section:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0180d886-2086-5036-8c33-9fe967671b54",
+      "target": "source:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|International|https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "0180d886-2086-5036-8c33-9fe967671b54"
+        ]
+      }
+    },
+    {
+      "source": "chunk:031e156f-058c-5353-b02e-df19b57e15f6",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6"
+        ]
+      }
+    },
+    {
+      "source": "chunk:031e156f-058c-5353-b02e-df19b57e15f6",
+      "target": "regime:Designs",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6"
+        ]
+      }
+    },
+    {
+      "source": "chunk:031e156f-058c-5353-b02e-df19b57e15f6",
+      "target": "section:The Designs Act, 2000|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6"
+        ]
+      }
+    },
+    {
+      "source": "chunk:031e156f-058c-5353-b02e-df19b57e15f6",
+      "target": "source:The Designs Act, 2000|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "031e156f-058c-5353-b02e-df19b57e15f6"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0338c300-2ee5-57f3-a977-4f287f4ef99a",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0338c300-2ee5-57f3-a977-4f287f4ef99a",
+      "target": "regime:PlantVariety",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0338c300-2ee5-57f3-a977-4f287f4ef99a",
+      "target": "section:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|Section 39 - Farmers' Rights (core provisions)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0338c300-2ee5-57f3-a977-4f287f4ef99a",
+      "target": "source:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "0338c300-2ee5-57f3-a977-4f287f4ef99a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0697285a-10f2-53a0-980d-03b7c4d26c25",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "0697285a-10f2-53a0-980d-03b7c4d26c25"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0697285a-10f2-53a0-980d-03b7c4d26c25",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "0697285a-10f2-53a0-980d-03b7c4d26c25"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0697285a-10f2-53a0-980d-03b7c4d26c25",
+      "target": "section:Traditional Knowledge Digital Library (TKDL)|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "0697285a-10f2-53a0-980d-03b7c4d26c25"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0697285a-10f2-53a0-980d-03b7c4d26c25",
+      "target": "source:Traditional Knowledge Digital Library (TKDL)|India|https://www.csir.res.in/en/documents/tkdl",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "0697285a-10f2-53a0-980d-03b7c4d26c25"
+        ]
+      }
+    },
+    {
+      "source": "chunk:070bbaef-0140-52af-996d-b5b370714b69",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "070bbaef-0140-52af-996d-b5b370714b69"
+        ]
+      }
+    },
+    {
+      "source": "chunk:070bbaef-0140-52af-996d-b5b370714b69",
+      "target": "regime:Trademarks",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "070bbaef-0140-52af-996d-b5b370714b69"
+        ]
+      }
+    },
+    {
+      "source": "chunk:070bbaef-0140-52af-996d-b5b370714b69",
+      "target": "section:The Trade Marks Act, 1999|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "070bbaef-0140-52af-996d-b5b370714b69"
+        ]
+      }
+    },
+    {
+      "source": "chunk:070bbaef-0140-52af-996d-b5b370714b69",
+      "target": "source:The Trade Marks Act, 1999|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "070bbaef-0140-52af-996d-b5b370714b69"
+        ]
+      }
+    },
+    {
+      "source": "chunk:07613636-6a7f-529a-83f0-22665ce5b9be",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "07613636-6a7f-529a-83f0-22665ce5b9be"
+        ]
+      }
+    },
+    {
+      "source": "chunk:07613636-6a7f-529a-83f0-22665ce5b9be",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "07613636-6a7f-529a-83f0-22665ce5b9be"
+        ]
+      }
+    },
+    {
+      "source": "chunk:07613636-6a7f-529a-83f0-22665ce5b9be",
+      "target": "section:Patent Cooperation Treaty (PCT)|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "07613636-6a7f-529a-83f0-22665ce5b9be"
+        ]
+      }
+    },
+    {
+      "source": "chunk:07613636-6a7f-529a-83f0-22665ce5b9be",
+      "target": "source:Patent Cooperation Treaty (PCT)|International|https://www.wipo.int/pct/en/texts/index.html",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "07613636-6a7f-529a-83f0-22665ce5b9be"
+        ]
+      }
+    },
+    {
+      "source": "chunk:07b88286-6f71-59bd-949a-05ad7a28cd22",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22"
+        ]
+      }
+    },
+    {
+      "source": "chunk:07b88286-6f71-59bd-949a-05ad7a28cd22",
+      "target": "regime:GI",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22"
+        ]
+      }
+    },
+    {
+      "source": "chunk:07b88286-6f71-59bd-949a-05ad7a28cd22",
+      "target": "section:Geographical Indications of Goods (Registration & Protection) Act, 1999|Overview - Key definitions (Section 2)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22"
+        ]
+      }
+    },
+    {
+      "source": "chunk:07b88286-6f71-59bd-949a-05ad7a28cd22",
+      "target": "source:Geographical Indications of Goods (Registration & Protection) Act, 1999|India|https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22"
+        ]
+      }
+    },
+    {
+      "source": "chunk:083fd136-3cf1-52ca-9c56-15fa64c9506e",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:083fd136-3cf1-52ca-9c56-15fa64c9506e",
+      "target": "regime:Copyright",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:083fd136-3cf1-52ca-9c56-15fa64c9506e",
+      "target": "section:The Copyright Act, 1957|Overview - Key definitions (Section 2)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:083fd136-3cf1-52ca-9c56-15fa64c9506e",
+      "target": "source:The Copyright Act, 1957|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "083fd136-3cf1-52ca-9c56-15fa64c9506e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:08880731-93be-5bc7-8e60-b599dd77d421",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "08880731-93be-5bc7-8e60-b599dd77d421"
+        ]
+      }
+    },
+    {
+      "source": "chunk:08880731-93be-5bc7-8e60-b599dd77d421",
+      "target": "regime:GI",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "08880731-93be-5bc7-8e60-b599dd77d421"
+        ]
+      }
+    },
+    {
+      "source": "chunk:08880731-93be-5bc7-8e60-b599dd77d421",
+      "target": "section:Geographical Indications of Goods (Registration & Protection) Act, 1999|Overview - Registration scheme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "08880731-93be-5bc7-8e60-b599dd77d421"
+        ]
+      }
+    },
+    {
+      "source": "chunk:08880731-93be-5bc7-8e60-b599dd77d421",
+      "target": "source:Geographical Indications of Goods (Registration & Protection) Act, 1999|India|https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "08880731-93be-5bc7-8e60-b599dd77d421"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+      "target": "section:Convention on Biological Diversity (CBD), 1992|Article 15 - Access to genetic resources",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+      "target": "source:Convention on Biological Diversity (CBD), 1992|International|https://www.cbd.int/convention/text/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+      "target": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Mandatory patent disclosure requirement (core obligation)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+      "target": "source:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|International|https://www.wipo.int/en/web/treaties/ip/gratk/index",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "0c0052cc-e3c3-5047-88bb-f5459fdeb54f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+      "target": "section:The Patents Act, 1970|Overview - Chapter map (23 chapters)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+      "target": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+      "target": "section:Traditional Knowledge Digital Library (TKDL)|Overview - How it works",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9"
+        ]
+      }
+    },
+    {
+      "source": "chunk:0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+      "target": "source:Traditional Knowledge Digital Library (TKDL)|India|https://www.csir.res.in/en/documents/tkdl",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9"
+        ]
+      }
+    },
+    {
+      "source": "chunk:119ecdc8-2238-584a-ae7f-21cc4da089f7",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:119ecdc8-2238-584a-ae7f-21cc4da089f7",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:119ecdc8-2238-584a-ae7f-21cc4da089f7",
+      "target": "section:The Drugs and Cosmetics Act, 1940|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:119ecdc8-2238-584a-ae7f-21cc4da089f7",
+      "target": "source:The Drugs and Cosmetics Act, 1940|India|https://www.indiacode.nic.in/bitstream/123456789/18562/1/the_drugs_and_cosmetics_act,_1940.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "119ecdc8-2238-584a-ae7f-21cc4da089f7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:11dfed34-2f40-5c42-b677-4296da7bfba2",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "11dfed34-2f40-5c42-b677-4296da7bfba2"
+        ]
+      }
+    },
+    {
+      "source": "chunk:11dfed34-2f40-5c42-b677-4296da7bfba2",
+      "target": "regime:PlantVariety",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "11dfed34-2f40-5c42-b677-4296da7bfba2"
+        ]
+      }
+    },
+    {
+      "source": "chunk:11dfed34-2f40-5c42-b677-4296da7bfba2",
+      "target": "section:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "11dfed34-2f40-5c42-b677-4296da7bfba2"
+        ]
+      }
+    },
+    {
+      "source": "chunk:11dfed34-2f40-5c42-b677-4296da7bfba2",
+      "target": "source:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "11dfed34-2f40-5c42-b677-4296da7bfba2"
+        ]
+      }
+    },
+    {
+      "source": "chunk:15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5"
+        ]
+      }
+    },
+    {
+      "source": "chunk:15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5"
+        ]
+      }
+    },
+    {
+      "source": "chunk:15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+      "target": "section:Convention on Biological Diversity (CBD), 1992|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5"
+        ]
+      }
+    },
+    {
+      "source": "chunk:15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+      "target": "source:Convention on Biological Diversity (CBD), 1992|International|https://www.cbd.int/convention/text/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "15f54b59-6583-5c77-afb3-fd8f6be90ba5"
+        ]
+      }
+    },
+    {
+      "source": "chunk:18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+      "target": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Objectives",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+      "target": "source:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|International|https://www.wipo.int/en/web/treaties/ip/gratk/index",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+      "target": "regime:Food",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+      "target": "section:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|Overview - Why it matters",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+      "target": "source:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|India|https://fssai.gov.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:1fabcd34-4928-5020-9a88-055e5ad7b338",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "1fabcd34-4928-5020-9a88-055e5ad7b338"
+        ]
+      }
+    },
+    {
+      "source": "chunk:1fabcd34-4928-5020-9a88-055e5ad7b338",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "1fabcd34-4928-5020-9a88-055e5ad7b338"
+        ]
+      }
+    },
+    {
+      "source": "chunk:1fabcd34-4928-5020-9a88-055e5ad7b338",
+      "target": "section:Botanical Drug Development - Guidance for Industry|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "1fabcd34-4928-5020-9a88-055e5ad7b338"
+        ]
+      }
+    },
+    {
+      "source": "chunk:1fabcd34-4928-5020-9a88-055e5ad7b338",
+      "target": "source:Botanical Drug Development - Guidance for Industry|International|https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "1fabcd34-4928-5020-9a88-055e5ad7b338"
+        ]
+      }
+    },
+    {
+      "source": "chunk:202d7d72-177e-5b3f-a291-1ae616dbad5f",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:202d7d72-177e-5b3f-a291-1ae616dbad5f",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:202d7d72-177e-5b3f-a291-1ae616dbad5f",
+      "target": "section:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|Article 6 - Access to genetic resources",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:202d7d72-177e-5b3f-a291-1ae616dbad5f",
+      "target": "source:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|International|https://www.cbd.int/abs/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "202d7d72-177e-5b3f-a291-1ae616dbad5f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+      "target": "regime:Designs",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+      "target": "section:The Designs Act, 2000|Overview - Key definitions (Section 2)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+      "target": "source:The Designs Act, 2000|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "289f8ff8-1a37-51af-8bf2-70b9c96807e8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:32d87538-630a-587a-8de5-e90d496cb504",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "32d87538-630a-587a-8de5-e90d496cb504"
+        ]
+      }
+    },
+    {
+      "source": "chunk:32d87538-630a-587a-8de5-e90d496cb504",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "32d87538-630a-587a-8de5-e90d496cb504"
+        ]
+      }
+    },
+    {
+      "source": "chunk:32d87538-630a-587a-8de5-e90d496cb504",
+      "target": "section:The Drugs and Cosmetics Act, 1940|Overview - Why it matters",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "32d87538-630a-587a-8de5-e90d496cb504"
+        ]
+      }
+    },
+    {
+      "source": "chunk:32d87538-630a-587a-8de5-e90d496cb504",
+      "target": "source:The Drugs and Cosmetics Act, 1940|India|https://www.indiacode.nic.in/bitstream/123456789/18562/1/the_drugs_and_cosmetics_act,_1940.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "32d87538-630a-587a-8de5-e90d496cb504"
+        ]
+      }
+    },
+    {
+      "source": "chunk:367da042-6cd9-5ac9-a122-63646fb9f9bf",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf"
+        ]
+      }
+    },
+    {
+      "source": "chunk:367da042-6cd9-5ac9-a122-63646fb9f9bf",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf"
+        ]
+      }
+    },
+    {
+      "source": "chunk:367da042-6cd9-5ac9-a122-63646fb9f9bf",
+      "target": "section:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|Article 39 - Protection of undisclosed information",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf"
+        ]
+      }
+    },
+    {
+      "source": "chunk:367da042-6cd9-5ac9-a122-63646fb9f9bf",
+      "target": "source:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|International|https://www.wto.org/english/docs_e/legal_e/27-trips.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf"
+        ]
+      }
+    },
+    {
+      "source": "chunk:37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509"
+        ]
+      }
+    },
+    {
+      "source": "chunk:37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509"
+        ]
+      }
+    },
+    {
+      "source": "chunk:37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+      "target": "section:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509"
+        ]
+      }
+    },
+    {
+      "source": "chunk:37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+      "target": "source:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|International|https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509"
+        ]
+      }
+    },
+    {
+      "source": "chunk:38714a77-004f-5997-9014-86af2d0a82f0",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "38714a77-004f-5997-9014-86af2d0a82f0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:38714a77-004f-5997-9014-86af2d0a82f0",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "38714a77-004f-5997-9014-86af2d0a82f0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:38714a77-004f-5997-9014-86af2d0a82f0",
+      "target": "section:The Biological Diversity Act, 2002|Overview - Key operative provisions",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "38714a77-004f-5997-9014-86af2d0a82f0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:38714a77-004f-5997-9014-86af2d0a82f0",
+      "target": "source:The Biological Diversity Act, 2002|India|https://www.indiacode.nic.in/bitstream/123456789/21545/1/the_biological_diversity_act,_2002.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "38714a77-004f-5997-9014-86af2d0a82f0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12"
+        ]
+      }
+    },
+    {
+      "source": "chunk:397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12"
+        ]
+      }
+    },
+    {
+      "source": "chunk:397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+      "target": "section:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12"
+        ]
+      }
+    },
+    {
+      "source": "chunk:397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+      "target": "source:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|International|https://www.wto.org/english/docs_e/legal_e/27-trips.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12"
+        ]
+      }
+    },
+    {
+      "source": "chunk:3be917e6-899a-5772-ab1d-3416e108fca9",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "3be917e6-899a-5772-ab1d-3416e108fca9"
+        ]
+      }
+    },
+    {
+      "source": "chunk:3be917e6-899a-5772-ab1d-3416e108fca9",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "3be917e6-899a-5772-ab1d-3416e108fca9"
+        ]
+      }
+    },
+    {
+      "source": "chunk:3be917e6-899a-5772-ab1d-3416e108fca9",
+      "target": "section:The Biological Diversity Act, 2002|Overview - Key definitions (Section 2)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "3be917e6-899a-5772-ab1d-3416e108fca9"
+        ]
+      }
+    },
+    {
+      "source": "chunk:3be917e6-899a-5772-ab1d-3416e108fca9",
+      "target": "source:The Biological Diversity Act, 2002|India|https://www.indiacode.nic.in/bitstream/123456789/21545/1/the_biological_diversity_act,_2002.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "3be917e6-899a-5772-ab1d-3416e108fca9"
+        ]
+      }
+    },
+    {
+      "source": "chunk:3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d"
+        ]
+      }
+    },
+    {
+      "source": "chunk:3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d"
+        ]
+      }
+    },
+    {
+      "source": "chunk:3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+      "target": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Benefits to applicants",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d"
+        ]
+      }
+    },
+    {
+      "source": "chunk:3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+      "target": "source:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|International|https://www.wipo.int/treaties/en/registration/budapest/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d"
+        ]
+      }
+    },
+    {
+      "source": "chunk:41862743-26d9-552c-905c-36ecc2e34269",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "41862743-26d9-552c-905c-36ecc2e34269"
+        ]
+      }
+    },
+    {
+      "source": "chunk:41862743-26d9-552c-905c-36ecc2e34269",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "41862743-26d9-552c-905c-36ecc2e34269"
+        ]
+      }
+    },
+    {
+      "source": "chunk:41862743-26d9-552c-905c-36ecc2e34269",
+      "target": "section:The Biological Diversity Act, 2002|Overview - Three-tier institutional structure",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "41862743-26d9-552c-905c-36ecc2e34269"
+        ]
+      }
+    },
+    {
+      "source": "chunk:41862743-26d9-552c-905c-36ecc2e34269",
+      "target": "source:The Biological Diversity Act, 2002|India|https://www.indiacode.nic.in/bitstream/123456789/21545/1/the_biological_diversity_act,_2002.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "41862743-26d9-552c-905c-36ecc2e34269"
+        ]
+      }
+    },
+    {
+      "source": "chunk:42923ba9-19ca-5469-9aaf-0a90157a0a35",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35"
+        ]
+      }
+    },
+    {
+      "source": "chunk:42923ba9-19ca-5469-9aaf-0a90157a0a35",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35"
+        ]
+      }
+    },
+    {
+      "source": "chunk:42923ba9-19ca-5469-9aaf-0a90157a0a35",
+      "target": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Adoption and entry into force",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35"
+        ]
+      }
+    },
+    {
+      "source": "chunk:42923ba9-19ca-5469-9aaf-0a90157a0a35",
+      "target": "source:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|International|https://www.wipo.int/en/web/treaties/ip/gratk/index",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "42923ba9-19ca-5469-9aaf-0a90157a0a35"
+        ]
+      }
+    },
+    {
+      "source": "chunk:46017633-44c6-5f0c-90c0-4ea06b15a127",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "46017633-44c6-5f0c-90c0-4ea06b15a127"
+        ]
+      }
+    },
+    {
+      "source": "chunk:46017633-44c6-5f0c-90c0-4ea06b15a127",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "46017633-44c6-5f0c-90c0-4ea06b15a127"
+        ]
+      }
+    },
+    {
+      "source": "chunk:46017633-44c6-5f0c-90c0-4ea06b15a127",
+      "target": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "46017633-44c6-5f0c-90c0-4ea06b15a127"
+        ]
+      }
+    },
+    {
+      "source": "chunk:46017633-44c6-5f0c-90c0-4ea06b15a127",
+      "target": "source:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|International|https://www.wipo.int/en/web/treaties/ip/gratk/index",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "46017633-44c6-5f0c-90c0-4ea06b15a127"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+      "target": "regime:GI",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+      "target": "section:Geographical Indications of Goods (Registration & Protection) Act, 1999|Overview - Relevance to traditional knowledge / Ayurveda",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+      "target": "source:Geographical Indications of Goods (Registration & Protection) Act, 1999|India|https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+      "target": "regime:Designs",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+      "target": "section:Guide to the Hague System|Chapter VI: Changes and renewals.",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+      "target": "source:Guide to the Hague System|International|https://www.wipo.int/hague/en/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "4d39110b-874d-5aaf-b71d-f2aaed88c1ab"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4e66f213-33c6-5a42-95f1-f950fbed6e49",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4e66f213-33c6-5a42-95f1-f950fbed6e49",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4e66f213-33c6-5a42-95f1-f950fbed6e49",
+      "target": "section:Botanical Drug Development - Guidance for Industry|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4e66f213-33c6-5a42-95f1-f950fbed6e49",
+      "target": "source:Botanical Drug Development - Guidance for Industry|International|https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "4e66f213-33c6-5a42-95f1-f950fbed6e49"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+      "target": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - International Depositary Authorities (IDAs)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007"
+        ]
+      }
+    },
+    {
+      "source": "chunk:4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+      "target": "source:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|International|https://www.wipo.int/treaties/en/registration/budapest/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "4ea1b9c6-6ef9-5183-8bd8-96470244e007"
+        ]
+      }
+    },
+    {
+      "source": "chunk:51aaeb23-39f7-51df-bba7-6f8e3cc894e8",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:51aaeb23-39f7-51df-bba7-6f8e3cc894e8",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:51aaeb23-39f7-51df-bba7-6f8e3cc894e8",
+      "target": "section:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|Overview - Other key features",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:51aaeb23-39f7-51df-bba7-6f8e3cc894e8",
+      "target": "source:WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)|International|https://www.wipo.int/en/web/treaties/ip/gratk/index",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "51aaeb23-39f7-51df-bba7-6f8e3cc894e8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30"
+        ]
+      }
+    },
+    {
+      "source": "chunk:57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+      "target": "regime:Trademarks",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30"
+        ]
+      }
+    },
+    {
+      "source": "chunk:57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+      "target": "section:The Trade Marks Act, 1999|Overview - Key definitions (Section 2)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30"
+        ]
+      }
+    },
+    {
+      "source": "chunk:57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+      "target": "source:The Trade Marks Act, 1999|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+      "target": "section:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|Article 27 - Patentable subject matter",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+      "target": "source:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|International|https://www.wto.org/english/docs_e/legal_e/27-trips.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+      "target": "regime:Food",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+      "target": "section:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+      "target": "source:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|India|https://fssai.gov.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e22a97e-62ad-52d4-947c-ae09c2b30ac1"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5e838f57-ff2c-561f-9f78-60c2afb5200a",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5e838f57-ff2c-561f-9f78-60c2afb5200a",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5e838f57-ff2c-561f-9f78-60c2afb5200a",
+      "target": "section:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5e838f57-ff2c-561f-9f78-60c2afb5200a",
+      "target": "source:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|International|https://www.cbd.int/abs/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "5e838f57-ff2c-561f-9f78-60c2afb5200a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5ede1211-5979-5c49-acf9-bbc19c5dd118",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5ede1211-5979-5c49-acf9-bbc19c5dd118",
+      "target": "regime:Trademarks",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5ede1211-5979-5c49-acf9-bbc19c5dd118",
+      "target": "section:Guide to the Madrid System|Chapter IV: Becoming a member of the Protocol.",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118"
+        ]
+      }
+    },
+    {
+      "source": "chunk:5ede1211-5979-5c49-acf9-bbc19c5dd118",
+      "target": "source:Guide to the Madrid System|International|https://www.wipo.int/madrid/en/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "5ede1211-5979-5c49-acf9-bbc19c5dd118"
+        ]
+      }
+    },
+    {
+      "source": "chunk:634f9ecd-07ac-577c-81f1-d1529beea73f",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "634f9ecd-07ac-577c-81f1-d1529beea73f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:634f9ecd-07ac-577c-81f1-d1529beea73f",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "634f9ecd-07ac-577c-81f1-d1529beea73f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:634f9ecd-07ac-577c-81f1-d1529beea73f",
+      "target": "section:Biological Diversity Rules, 2024|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "634f9ecd-07ac-577c-81f1-d1529beea73f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:634f9ecd-07ac-577c-81f1-d1529beea73f",
+      "target": "source:Biological Diversity Rules, 2024|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "634f9ecd-07ac-577c-81f1-d1529beea73f"
+        ]
+      }
+    },
+    {
+      "source": "chunk:6484b7d7-be98-5859-854e-acf05d9457f0",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "6484b7d7-be98-5859-854e-acf05d9457f0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:6484b7d7-be98-5859-854e-acf05d9457f0",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "6484b7d7-be98-5859-854e-acf05d9457f0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:6484b7d7-be98-5859-854e-acf05d9457f0",
+      "target": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "6484b7d7-be98-5859-854e-acf05d9457f0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:6484b7d7-be98-5859-854e-acf05d9457f0",
+      "target": "source:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|International|https://www.wipo.int/treaties/en/registration/budapest/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "6484b7d7-be98-5859-854e-acf05d9457f0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:6c6c69d6-291b-586c-b6a4-d1af925cd833",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833"
+        ]
+      }
+    },
+    {
+      "source": "chunk:6c6c69d6-291b-586c-b6a4-d1af925cd833",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833"
+        ]
+      }
+    },
+    {
+      "source": "chunk:6c6c69d6-291b-586c-b6a4-d1af925cd833",
+      "target": "section:Patent Cooperation Treaty (PCT)|Overview - National phase",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833"
+        ]
+      }
+    },
+    {
+      "source": "chunk:6c6c69d6-291b-586c-b6a4-d1af925cd833",
+      "target": "source:Patent Cooperation Treaty (PCT)|International|https://www.wipo.int/pct/en/texts/index.html",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "6c6c69d6-291b-586c-b6a4-d1af925cd833"
+        ]
+      }
+    },
+    {
+      "source": "chunk:743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe"
+        ]
+      }
+    },
+    {
+      "source": "chunk:743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe"
+        ]
+      }
+    },
+    {
+      "source": "chunk:743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+      "target": "section:Traditional Knowledge Digital Library (TKDL)|Overview - Access and impact",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe"
+        ]
+      }
+    },
+    {
+      "source": "chunk:743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+      "target": "source:Traditional Knowledge Digital Library (TKDL)|India|https://www.csir.res.in/en/documents/tkdl",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe"
+        ]
+      }
+    },
+    {
+      "source": "chunk:75beec31-18c1-51d7-bfe0-e753a70e7f78",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78"
+        ]
+      }
+    },
+    {
+      "source": "chunk:75beec31-18c1-51d7-bfe0-e753a70e7f78",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78"
+        ]
+      }
+    },
+    {
+      "source": "chunk:75beec31-18c1-51d7-bfe0-e753a70e7f78",
+      "target": "section:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|Article 5 - Fair and equitable benefit-sharing",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78"
+        ]
+      }
+    },
+    {
+      "source": "chunk:75beec31-18c1-51d7-bfe0-e753a70e7f78",
+      "target": "source:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|International|https://www.cbd.int/abs/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "75beec31-18c1-51d7-bfe0-e753a70e7f78"
+        ]
+      }
+    },
+    {
+      "source": "chunk:77d94a3b-c5e0-5c0a-9971-1636ce184808",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808"
+        ]
+      }
+    },
+    {
+      "source": "chunk:77d94a3b-c5e0-5c0a-9971-1636ce184808",
+      "target": "regime:Designs",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808"
+        ]
+      }
+    },
+    {
+      "source": "chunk:77d94a3b-c5e0-5c0a-9971-1636ce184808",
+      "target": "section:Guide to the Hague System|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808"
+        ]
+      }
+    },
+    {
+      "source": "chunk:77d94a3b-c5e0-5c0a-9971-1636ce184808",
+      "target": "source:Guide to the Hague System|International|https://www.wipo.int/hague/en/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "77d94a3b-c5e0-5c0a-9971-1636ce184808"
+        ]
+      }
+    },
+    {
+      "source": "chunk:7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071"
+        ]
+      }
+    },
+    {
+      "source": "chunk:7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+      "target": "regime:Trademarks",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071"
+        ]
+      }
+    },
+    {
+      "source": "chunk:7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+      "target": "section:Guide to the Madrid System|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071"
+        ]
+      }
+    },
+    {
+      "source": "chunk:7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+      "target": "source:Guide to the Madrid System|International|https://www.wipo.int/madrid/en/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "7a51d4f6-b9d4-51fc-89b4-41b3f3465071"
+        ]
+      }
+    },
+    {
+      "source": "chunk:7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+      "target": "section:Convention on Biological Diversity (CBD), 1992|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+      "target": "source:Convention on Biological Diversity (CBD), 1992|International|https://www.cbd.int/convention/text/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "7f87eccb-b802-5bbf-9eb5-b4b86e84461a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8b9ecd11-1c2e-5753-b9b1-958be7132378",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8b9ecd11-1c2e-5753-b9b1-958be7132378",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8b9ecd11-1c2e-5753-b9b1-958be7132378",
+      "target": "section:The Patents Act, 1970|Section 3(c) - Discoveries excluded",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8b9ecd11-1c2e-5753-b9b1-958be7132378",
+      "target": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "8b9ecd11-1c2e-5753-b9b1-958be7132378"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+      "target": "section:Traditional Knowledge Digital Library (TKDL)|Overview - Why it was needed",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+      "target": "source:Traditional Knowledge Digital Library (TKDL)|India|https://www.csir.res.in/en/documents/tkdl",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "8d589c3c-866b-518c-aefc-611ee2cb9bf7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8ea82236-7521-5538-99ad-f21b66903260",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "8ea82236-7521-5538-99ad-f21b66903260"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8ea82236-7521-5538-99ad-f21b66903260",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "8ea82236-7521-5538-99ad-f21b66903260"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8ea82236-7521-5538-99ad-f21b66903260",
+      "target": "section:The Biological Diversity Act, 2002|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "8ea82236-7521-5538-99ad-f21b66903260"
+        ]
+      }
+    },
+    {
+      "source": "chunk:8ea82236-7521-5538-99ad-f21b66903260",
+      "target": "source:The Biological Diversity Act, 2002|India|https://www.indiacode.nic.in/bitstream/123456789/21545/1/the_biological_diversity_act,_2002.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "8ea82236-7521-5538-99ad-f21b66903260"
+        ]
+      }
+    },
+    {
+      "source": "chunk:96e98fbb-eb20-505b-959e-0ec84bc3701c",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:96e98fbb-eb20-505b-959e-0ec84bc3701c",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:96e98fbb-eb20-505b-959e-0ec84bc3701c",
+      "target": "section:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:96e98fbb-eb20-505b-959e-0ec84bc3701c",
+      "target": "source:Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)|International|https://www.wto.org/english/docs_e/legal_e/27-trips.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+      "target": "section:The Patents Act, 1970|Section 3(p) - Traditional knowledge bar",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+      "target": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c"
+        ]
+      }
+    },
+    {
+      "source": "chunk:99cad1d5-befd-52c6-8043-a436e01579b7",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "99cad1d5-befd-52c6-8043-a436e01579b7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:99cad1d5-befd-52c6-8043-a436e01579b7",
+      "target": "regime:TK",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "99cad1d5-befd-52c6-8043-a436e01579b7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:99cad1d5-befd-52c6-8043-a436e01579b7",
+      "target": "section:Traditional Knowledge Digital Library (TKDL)|Overview - Significance",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "99cad1d5-befd-52c6-8043-a436e01579b7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:99cad1d5-befd-52c6-8043-a436e01579b7",
+      "target": "source:Traditional Knowledge Digital Library (TKDL)|India|https://www.csir.res.in/en/documents/tkdl",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "99cad1d5-befd-52c6-8043-a436e01579b7"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+      "target": "section:Patent Cooperation Treaty (PCT)|Overview - Key advantages",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+      "target": "source:Patent Cooperation Treaty (PCT)|International|https://www.wipo.int/pct/en/texts/index.html",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "9a89fc5a-4173-52c5-8930-13c9e2dbe737"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9abc772d-e8ba-57df-b27d-2198b241dd63",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "9abc772d-e8ba-57df-b27d-2198b241dd63"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9abc772d-e8ba-57df-b27d-2198b241dd63",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "9abc772d-e8ba-57df-b27d-2198b241dd63"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9abc772d-e8ba-57df-b27d-2198b241dd63",
+      "target": "section:The Patents Act, 1970|Overview - Key concepts to remember",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "9abc772d-e8ba-57df-b27d-2198b241dd63"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9abc772d-e8ba-57df-b27d-2198b241dd63",
+      "target": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "9abc772d-e8ba-57df-b27d-2198b241dd63"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+      "target": "regime:Advertising",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+      "target": "section:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+      "target": "source:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "9b40b2e9-140a-5e19-9dda-f275b35cca7d"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9e92ae2c-9a34-571b-8df1-c5472416db39",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "9e92ae2c-9a34-571b-8df1-c5472416db39"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9e92ae2c-9a34-571b-8df1-c5472416db39",
+      "target": "regime:Copyright",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "9e92ae2c-9a34-571b-8df1-c5472416db39"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9e92ae2c-9a34-571b-8df1-c5472416db39",
+      "target": "section:The Copyright Act, 1957|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "9e92ae2c-9a34-571b-8df1-c5472416db39"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9e92ae2c-9a34-571b-8df1-c5472416db39",
+      "target": "source:The Copyright Act, 1957|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "9e92ae2c-9a34-571b-8df1-c5472416db39"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9f66997e-9cc1-57d7-85dc-81ef88d90740",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9f66997e-9cc1-57d7-85dc-81ef88d90740",
+      "target": "regime:GI",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9f66997e-9cc1-57d7-85dc-81ef88d90740",
+      "target": "section:Geographical Indications of Goods (Registration & Protection) Act, 1999|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+        ]
+      }
+    },
+    {
+      "source": "chunk:9f66997e-9cc1-57d7-85dc-81ef88d90740",
+      "target": "source:Geographical Indications of Goods (Registration & Protection) Act, 1999|India|https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+      "target": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Administration",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+      "target": "source:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|International|https://www.wipo.int/treaties/en/registration/budapest/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "a115ce2f-41f8-5d66-93e3-51cf93dcd710"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+      "target": "regime:Designs",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+      "target": "section:The Designs Act, 2000|Overview - Key scheme points",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+      "target": "source:The Designs Act, 2000|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "a11adb2a-3f64-5ec1-a335-e8b1181f66b8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a129056a-1482-5996-b075-916848409c76",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "a129056a-1482-5996-b075-916848409c76"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a129056a-1482-5996-b075-916848409c76",
+      "target": "regime:Designs",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "a129056a-1482-5996-b075-916848409c76"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a129056a-1482-5996-b075-916848409c76",
+      "target": "section:The Designs Act, 2000|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "a129056a-1482-5996-b075-916848409c76"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a129056a-1482-5996-b075-916848409c76",
+      "target": "source:The Designs Act, 2000|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "a129056a-1482-5996-b075-916848409c76"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a580ba99-10e7-50a7-978e-1767953fbf20",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "a580ba99-10e7-50a7-978e-1767953fbf20"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a580ba99-10e7-50a7-978e-1767953fbf20",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "a580ba99-10e7-50a7-978e-1767953fbf20"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a580ba99-10e7-50a7-978e-1767953fbf20",
+      "target": "section:Patent Cooperation Treaty (PCT)|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "a580ba99-10e7-50a7-978e-1767953fbf20"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a580ba99-10e7-50a7-978e-1767953fbf20",
+      "target": "source:Patent Cooperation Treaty (PCT)|International|https://www.wipo.int/pct/en/texts/index.html",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "a580ba99-10e7-50a7-978e-1767953fbf20"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a8ebfecf-1a23-5f84-b531-e5a305f92691",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a8ebfecf-1a23-5f84-b531-e5a305f92691",
+      "target": "regime:Copyright",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a8ebfecf-1a23-5f84-b531-e5a305f92691",
+      "target": "section:The Copyright Act, 1957|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691"
+        ]
+      }
+    },
+    {
+      "source": "chunk:a8ebfecf-1a23-5f84-b531-e5a305f92691",
+      "target": "source:The Copyright Act, 1957|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "a8ebfecf-1a23-5f84-b531-e5a305f92691"
+        ]
+      }
+    },
+    {
+      "source": "chunk:aa137068-c257-5bda-a34a-9961dcc403d0",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "aa137068-c257-5bda-a34a-9961dcc403d0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:aa137068-c257-5bda-a34a-9961dcc403d0",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "aa137068-c257-5bda-a34a-9961dcc403d0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:aa137068-c257-5bda-a34a-9961dcc403d0",
+      "target": "section:The Biological Diversity Act, 2002|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "aa137068-c257-5bda-a34a-9961dcc403d0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:aa137068-c257-5bda-a34a-9961dcc403d0",
+      "target": "source:The Biological Diversity Act, 2002|India|https://www.indiacode.nic.in/bitstream/123456789/21545/1/the_biological_diversity_act,_2002.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "aa137068-c257-5bda-a34a-9961dcc403d0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:afef1cd8-88de-5022-adf1-f7ff66f406b5",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5"
+        ]
+      }
+    },
+    {
+      "source": "chunk:afef1cd8-88de-5022-adf1-f7ff66f406b5",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5"
+        ]
+      }
+    },
+    {
+      "source": "chunk:afef1cd8-88de-5022-adf1-f7ff66f406b5",
+      "target": "section:Biological Diversity Rules, 2024|Rule 3 - Appointment of Chairperson",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5"
+        ]
+      }
+    },
+    {
+      "source": "chunk:afef1cd8-88de-5022-adf1-f7ff66f406b5",
+      "target": "source:Biological Diversity Rules, 2024|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "afef1cd8-88de-5022-adf1-f7ff66f406b5"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+      "target": "section:The Patents Act, 1970|Overview - Context",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+      "target": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+      "target": "section:Biological Diversity Rules, 2024|Overview - Why this matters",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+      "target": "source:Biological Diversity Rules, 2024|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b5358b55-d573-5403-9763-52f9905d3efe",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "b5358b55-d573-5403-9763-52f9905d3efe"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b5358b55-d573-5403-9763-52f9905d3efe",
+      "target": "regime:PlantVariety",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "b5358b55-d573-5403-9763-52f9905d3efe"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b5358b55-d573-5403-9763-52f9905d3efe",
+      "target": "section:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|Overview - Relevance to IP/TK theme",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "b5358b55-d573-5403-9763-52f9905d3efe"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b5358b55-d573-5403-9763-52f9905d3efe",
+      "target": "source:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "b5358b55-d573-5403-9763-52f9905d3efe"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b659030c-c588-5561-8ea3-aaba0af7cf3a",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b659030c-c588-5561-8ea3-aaba0af7cf3a",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b659030c-c588-5561-8ea3-aaba0af7cf3a",
+      "target": "section:Botanical Drug Development - Guidance for Industry|Overview - Key concepts",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:b659030c-c588-5561-8ea3-aaba0af7cf3a",
+      "target": "source:Botanical Drug Development - Guidance for Industry|International|https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "b659030c-c588-5561-8ea3-aaba0af7cf3a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+        ]
+      }
+    },
+    {
+      "source": "chunk:bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099",
+      "target": "regime:PlantVariety",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+        ]
+      }
+    },
+    {
+      "source": "chunk:bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099",
+      "target": "section:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|Overview - Other structural points to know",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+        ]
+      }
+    },
+    {
+      "source": "chunk:bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099",
+      "target": "source:Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+        ]
+      }
+    },
+    {
+      "source": "chunk:be731727-2cc6-5ef7-9caa-ee811b6b644e",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:be731727-2cc6-5ef7-9caa-ee811b6b644e",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:be731727-2cc6-5ef7-9caa-ee811b6b644e",
+      "target": "section:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|Article 7 - Access to associated traditional knowledge",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:be731727-2cc6-5ef7-9caa-ee811b6b644e",
+      "target": "source:Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization|International|https://www.cbd.int/abs/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "be731727-2cc6-5ef7-9caa-ee811b6b644e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+      "target": "regime:Trademarks",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+      "target": "section:The Trade Marks Act, 1999|Overview - Key scheme points",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+      "target": "source:The Trade Marks Act, 1999|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c30b9d7c-0b93-5b2e-896e-4af809245419",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "c30b9d7c-0b93-5b2e-896e-4af809245419"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c30b9d7c-0b93-5b2e-896e-4af809245419",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "c30b9d7c-0b93-5b2e-896e-4af809245419"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c30b9d7c-0b93-5b2e-896e-4af809245419",
+      "target": "section:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|Overview - Key concepts",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "c30b9d7c-0b93-5b2e-896e-4af809245419"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c30b9d7c-0b93-5b2e-896e-4af809245419",
+      "target": "source:Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products|International|https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "c30b9d7c-0b93-5b2e-896e-4af809245419"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c93b9463-b430-5df7-a09c-c2c98fae4943",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "c93b9463-b430-5df7-a09c-c2c98fae4943"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c93b9463-b430-5df7-a09c-c2c98fae4943",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "c93b9463-b430-5df7-a09c-c2c98fae4943"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c93b9463-b430-5df7-a09c-c2c98fae4943",
+      "target": "section:Convention on Biological Diversity (CBD), 1992|Article 1 - Objectives (the CBD's three pillars)",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "c93b9463-b430-5df7-a09c-c2c98fae4943"
+        ]
+      }
+    },
+    {
+      "source": "chunk:c93b9463-b430-5df7-a09c-c2c98fae4943",
+      "target": "source:Convention on Biological Diversity (CBD), 1992|International|https://www.cbd.int/convention/text/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "c93b9463-b430-5df7-a09c-c2c98fae4943"
+        ]
+      }
+    },
+    {
+      "source": "chunk:cc5575ab-cebb-5339-ba17-cb2f69dda014",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014"
+        ]
+      }
+    },
+    {
+      "source": "chunk:cc5575ab-cebb-5339-ba17-cb2f69dda014",
+      "target": "regime:Advertising",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014"
+        ]
+      }
+    },
+    {
+      "source": "chunk:cc5575ab-cebb-5339-ba17-cb2f69dda014",
+      "target": "section:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|Section 3 - what is prohibited",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014"
+        ]
+      }
+    },
+    {
+      "source": "chunk:cc5575ab-cebb-5339-ba17-cb2f69dda014",
+      "target": "source:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "cc5575ab-cebb-5339-ba17-cb2f69dda014"
+        ]
+      }
+    },
+    {
+      "source": "chunk:cf6670c5-f385-5184-b174-085d9cdf0b25",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "cf6670c5-f385-5184-b174-085d9cdf0b25"
+        ]
+      }
+    },
+    {
+      "source": "chunk:cf6670c5-f385-5184-b174-085d9cdf0b25",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "cf6670c5-f385-5184-b174-085d9cdf0b25"
+        ]
+      }
+    },
+    {
+      "source": "chunk:cf6670c5-f385-5184-b174-085d9cdf0b25",
+      "target": "section:Patent Cooperation Treaty (PCT)|Overview - International phase",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "cf6670c5-f385-5184-b174-085d9cdf0b25"
+        ]
+      }
+    },
+    {
+      "source": "chunk:cf6670c5-f385-5184-b174-085d9cdf0b25",
+      "target": "source:Patent Cooperation Treaty (PCT)|International|https://www.wipo.int/pct/en/texts/index.html",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "cf6670c5-f385-5184-b174-085d9cdf0b25"
+        ]
+      }
+    },
+    {
+      "source": "chunk:d1d71897-a48b-524f-91d1-93125851075e",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "d1d71897-a48b-524f-91d1-93125851075e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:d1d71897-a48b-524f-91d1-93125851075e",
+      "target": "regime:Trademarks",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "d1d71897-a48b-524f-91d1-93125851075e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:d1d71897-a48b-524f-91d1-93125851075e",
+      "target": "section:Guide to the Madrid System|Chapter I: Introduction - general overview, advantages of the Madrid System.",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "d1d71897-a48b-524f-91d1-93125851075e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:d1d71897-a48b-524f-91d1-93125851075e",
+      "target": "source:Guide to the Madrid System|International|https://www.wipo.int/madrid/en/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "d1d71897-a48b-524f-91d1-93125851075e"
+        ]
+      }
+    },
+    {
+      "source": "chunk:d94516d8-b7b7-59f4-9f4c-6f2e4adffe99",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+        ]
+      }
+    },
+    {
+      "source": "chunk:d94516d8-b7b7-59f4-9f4c-6f2e4adffe99",
+      "target": "regime:Advertising",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+        ]
+      }
+    },
+    {
+      "source": "chunk:d94516d8-b7b7-59f4-9f4c-6f2e4adffe99",
+      "target": "section:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|Section 3 - Prohibited advertisements",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+        ]
+      }
+    },
+    {
+      "source": "chunk:d94516d8-b7b7-59f4-9f4c-6f2e4adffe99",
+      "target": "source:Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+        ]
+      }
+    },
+    {
+      "source": "chunk:dbc701a4-af18-56c9-aa4c-b7134a5b1a6a",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:dbc701a4-af18-56c9-aa4c-b7134a5b1a6a",
+      "target": "regime:Copyright",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:dbc701a4-af18-56c9-aa4c-b7134a5b1a6a",
+      "target": "section:The Copyright Act, 1957|Overview - Key scheme points",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:dbc701a4-af18-56c9-aa4c-b7134a5b1a6a",
+      "target": "source:The Copyright Act, 1957|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+        ]
+      }
+    },
+    {
+      "source": "chunk:dd5cd790-d0a8-5360-93ed-0c1c90014408",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+        ]
+      }
+    },
+    {
+      "source": "chunk:dd5cd790-d0a8-5360-93ed-0c1c90014408",
+      "target": "regime:ABS",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+        ]
+      }
+    },
+    {
+      "source": "chunk:dd5cd790-d0a8-5360-93ed-0c1c90014408",
+      "target": "section:Biological Diversity Rules, 2024|Rule 7 - Resignation/vacancy of non-official members",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+        ]
+      }
+    },
+    {
+      "source": "chunk:dd5cd790-d0a8-5360-93ed-0c1c90014408",
+      "target": "source:Biological Diversity Rules, 2024|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+        ]
+      }
+    },
+    {
+      "source": "chunk:ddc425e4-af55-5748-8f0a-314b3d181a51",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "ddc425e4-af55-5748-8f0a-314b3d181a51"
+        ]
+      }
+    },
+    {
+      "source": "chunk:ddc425e4-af55-5748-8f0a-314b3d181a51",
+      "target": "regime:Designs",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "ddc425e4-af55-5748-8f0a-314b3d181a51"
+        ]
+      }
+    },
+    {
+      "source": "chunk:ddc425e4-af55-5748-8f0a-314b3d181a51",
+      "target": "section:Guide to the Hague System|Overview - How it works",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "ddc425e4-af55-5748-8f0a-314b3d181a51"
+        ]
+      }
+    },
+    {
+      "source": "chunk:ddc425e4-af55-5748-8f0a-314b3d181a51",
+      "target": "source:Guide to the Hague System|International|https://www.wipo.int/hague/en/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "ddc425e4-af55-5748-8f0a-314b3d181a51"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+      "target": "section:The Patents Act, 1970|Overview - Quick recap for exams",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+      "target": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e5732788-58f8-5870-83c1-1f20f5c24ba8",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e5732788-58f8-5870-83c1-1f20f5c24ba8",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e5732788-58f8-5870-83c1-1f20f5c24ba8",
+      "target": "section:The Patents Act, 1970|Overview - What it is",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e5732788-58f8-5870-83c1-1f20f5c24ba8",
+      "target": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "e5732788-58f8-5870-83c1-1f20f5c24ba8"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e6c0597c-82e8-5feb-8e27-73ef4c898373",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e6c0597c-82e8-5feb-8e27-73ef4c898373",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e6c0597c-82e8-5feb-8e27-73ef4c898373",
+      "target": "section:The Patents Act, 1970|Section 3(d) - The 'known substance' / evergreening bar",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373"
+        ]
+      }
+    },
+    {
+      "source": "chunk:e6c0597c-82e8-5feb-8e27-73ef4c898373",
+      "target": "source:The Patents Act, 1970|India|https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "e6c0597c-82e8-5feb-8e27-73ef4c898373"
+        ]
+      }
+    },
+    {
+      "source": "chunk:ea336ff3-6acc-5f4a-9a25-fc8c88f2d247",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+        ]
+      }
+    },
+    {
+      "source": "chunk:ea336ff3-6acc-5f4a-9a25-fc8c88f2d247",
+      "target": "regime:DrugRegulation",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+        ]
+      }
+    },
+    {
+      "source": "chunk:ea336ff3-6acc-5f4a-9a25-fc8c88f2d247",
+      "target": "section:The Drugs and Cosmetics Act, 1940|Section 3 - key definitions",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+        ]
+      }
+    },
+    {
+      "source": "chunk:ea336ff3-6acc-5f4a-9a25-fc8c88f2d247",
+      "target": "source:The Drugs and Cosmetics Act, 1940|India|https://www.indiacode.nic.in/bitstream/123456789/18562/1/the_drugs_and_cosmetics_act,_1940.pdf",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+        ]
+      }
+    },
+    {
+      "source": "chunk:eb756a72-73a2-55d2-b6c8-3efefeb77369",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369"
+        ]
+      }
+    },
+    {
+      "source": "chunk:eb756a72-73a2-55d2-b6c8-3efefeb77369",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369"
+        ]
+      }
+    },
+    {
+      "source": "chunk:eb756a72-73a2-55d2-b6c8-3efefeb77369",
+      "target": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Main feature",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369"
+        ]
+      }
+    },
+    {
+      "source": "chunk:eb756a72-73a2-55d2-b6c8-3efefeb77369",
+      "target": "source:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|International|https://www.wipo.int/treaties/en/registration/budapest/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "eb756a72-73a2-55d2-b6c8-3efefeb77369"
+        ]
+      }
+    },
+    {
+      "source": "chunk:f1da8d7a-8bb6-53bf-8712-759a403b0c43",
+      "target": "jurisdiction:International",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "source": "chunk:f1da8d7a-8bb6-53bf-8712-759a403b0c43",
+      "target": "regime:Patents",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "source": "chunk:f1da8d7a-8bb6-53bf-8712-759a403b0c43",
+      "target": "section:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|Overview - Why it exists",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "source": "chunk:f1da8d7a-8bb6-53bf-8712-759a403b0c43",
+      "target": "source:Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure|International|https://www.wipo.int/treaties/en/registration/budapest/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+        ]
+      }
+    },
+    {
+      "source": "chunk:f95d6d3f-da90-51cd-b308-b6085c6b32fb",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+        ]
+      }
+    },
+    {
+      "source": "chunk:f95d6d3f-da90-51cd-b308-b6085c6b32fb",
+      "target": "regime:Trademarks",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+        ]
+      }
+    },
+    {
+      "source": "chunk:f95d6d3f-da90-51cd-b308-b6085c6b32fb",
+      "target": "section:The Trade Marks Act, 1999|Overview - Purpose",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+        ]
+      }
+    },
+    {
+      "source": "chunk:f95d6d3f-da90-51cd-b308-b6085c6b32fb",
+      "target": "source:The Trade Marks Act, 1999|India|https://www.indiacode.nic.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+        ]
+      }
+    },
+    {
+      "source": "chunk:fced3935-0964-5cc1-a533-09bde11e6455",
+      "target": "jurisdiction:India",
+      "relation": "has_jurisdiction",
+      "provenance": {
+        "source_chunk_ids": [
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    },
+    {
+      "source": "chunk:fced3935-0964-5cc1-a533-09bde11e6455",
+      "target": "regime:Food",
+      "relation": "classified_as_regime",
+      "provenance": {
+        "source_chunk_ids": [
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    },
+    {
+      "source": "chunk:fced3935-0964-5cc1-a533-09bde11e6455",
+      "target": "section:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|Overview - Key features",
+      "relation": "has_section",
+      "provenance": {
+        "source_chunk_ids": [
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    },
+    {
+      "source": "chunk:fced3935-0964-5cc1-a533-09bde11e6455",
+      "target": "source:Food Safety and Standards (Ayurveda Aahara) Regulations, 2022|India|https://fssai.gov.in/",
+      "relation": "part_of_source",
+      "provenance": {
+        "source_chunk_ids": [
+          "fced3935-0964-5cc1-a533-09bde11e6455"
+        ]
+      }
+    }
+  ],
+  "limitations": [
+    "Relationships are derived only from corpus metadata; no legal inference or agentic reasoning is implemented."
+  ]
+}

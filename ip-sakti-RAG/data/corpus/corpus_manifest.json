@@ -1,0 +1,544 @@
+{
+  "manifest_version": 1,
+  "generated_on": "2026-09-03",
+  "corpus_path": "data/corpus/corpus.json",
+  "chunk_count": 91,
+  "source_count": 22,
+  "sources": [
+    {
+      "source_id": "79699b6dd145bbe5",
+      "title": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+      "jurisdiction": "International",
+      "regimes": [
+        "Patents"
+      ],
+      "authority_url": "https://www.wto.org/english/docs_e/legal_e/27-trips.pdf",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "3ec7197981f0c3697123b43a2a23b3137b0cf72672d4c0f9f90707b8b1381b51",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "367da042-6cd9-5ac9-a122-63646fb9f9bf",
+        "397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+        "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+        "96e98fbb-eb20-505b-959e-0ec84bc3701c"
+      ]
+    },
+    {
+      "source_id": "0766a85f47e87158",
+      "title": "Biological Diversity Rules, 2024",
+      "jurisdiction": "India",
+      "regimes": [
+        "ABS"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/",
+      "effective_dates": [
+        "2024"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "582c388e2ac383f74986740047c89246f52a352a2ae893ccb1ce1b14e5cc948c",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "634f9ecd-07ac-577c-81f1-d1529beea73f",
+        "afef1cd8-88de-5022-adf1-f7ff66f406b5",
+        "b0a01b36-9bfe-5d94-8dbb-f3d1ed49d72a",
+        "dd5cd790-d0a8-5360-93ed-0c1c90014408"
+      ]
+    },
+    {
+      "source_id": "7ced045cfb4faf9a",
+      "title": "Botanical Drug Development - Guidance for Industry",
+      "jurisdiction": "International",
+      "regimes": [
+        "DrugRegulation"
+      ],
+      "authority_url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/botanical-drug-development-guidance-industry",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "da0823a5d03acd29f3da2b3db1069b683694d28d158ed7661071462ad1483d13",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 3,
+      "chunk_ids": [
+        "1fabcd34-4928-5020-9a88-055e5ad7b338",
+        "4e66f213-33c6-5a42-95f1-f950fbed6e49",
+        "b659030c-c588-5561-8ea3-aaba0af7cf3a"
+      ]
+    },
+    {
+      "source_id": "1af319400c0886c5",
+      "title": "Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure",
+      "jurisdiction": "International",
+      "regimes": [
+        "Patents"
+      ],
+      "authority_url": "https://www.wipo.int/treaties/en/registration/budapest/",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "4f855b5025f6c136a3341f887ec732183fe57214fc40a318f26b131b72762571",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 6,
+      "chunk_ids": [
+        "3ee00380-4d68-5fc4-bed0-0fcadba7fd6d",
+        "4ea1b9c6-6ef9-5183-8bd8-96470244e007",
+        "6484b7d7-be98-5859-854e-acf05d9457f0",
+        "a115ce2f-41f8-5d66-93e3-51cf93dcd710",
+        "eb756a72-73a2-55d2-b6c8-3efefeb77369",
+        "f1da8d7a-8bb6-53bf-8712-759a403b0c43"
+      ]
+    },
+    {
+      "source_id": "159b01505e76dbca",
+      "title": "Convention on Biological Diversity (CBD), 1992",
+      "jurisdiction": "International",
+      "regimes": [
+        "ABS"
+      ],
+      "authority_url": "https://www.cbd.int/convention/text/",
+      "effective_dates": [
+        "1992"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "e7318eb5622b2dc7647bdc317b61e47bff256546f1616ac51f3f34a136e34c7b",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "0b0bd9e5-2b95-556c-a11c-ea3dc996b8db",
+        "15f54b59-6583-5c77-afb3-fd8f6be90ba5",
+        "7f87eccb-b802-5bbf-9eb5-b4b86e84461a",
+        "c93b9463-b430-5df7-a09c-c2c98fae4943"
+      ]
+    },
+    {
+      "source_id": "3cb5724267624dbb",
+      "title": "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+      "jurisdiction": "India",
+      "regimes": [
+        "Advertising"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/",
+      "effective_dates": [
+        "1954"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "103f39a07995275a097364fb5e270afbb93803882ea6e7a6701a13d569ef5424",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 3,
+      "chunk_ids": [
+        "9b40b2e9-140a-5e19-9dda-f275b35cca7d",
+        "cc5575ab-cebb-5339-ba17-cb2f69dda014",
+        "d94516d8-b7b7-59f4-9f4c-6f2e4adffe99"
+      ]
+    },
+    {
+      "source_id": "8d5c9c505a977861",
+      "title": "Food Safety and Standards (Ayurveda Aahara) Regulations, 2022",
+      "jurisdiction": "India",
+      "regimes": [
+        "Food"
+      ],
+      "authority_url": "https://fssai.gov.in/",
+      "effective_dates": [
+        "2022-05-05"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "ce4127b08b2000e0c047afbff0dcbf78580114274d3384b92594fa23873d330b",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 3,
+      "chunk_ids": [
+        "1e5bc8f8-6c54-5e98-a7d7-d0cdc3ab46b7",
+        "5e22a97e-62ad-52d4-947c-ae09c2b30ac1",
+        "fced3935-0964-5cc1-a533-09bde11e6455"
+      ]
+    },
+    {
+      "source_id": "f839e3739defe78d",
+      "title": "Geographical Indications of Goods (Registration & Protection) Act, 1999",
+      "jurisdiction": "India",
+      "regimes": [
+        "GI"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf",
+      "effective_dates": [
+        "1999"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "198652d7b574828618233a09a8e522d08ff0295481118debbf09b6858c669830",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "07b88286-6f71-59bd-949a-05ad7a28cd22",
+        "08880731-93be-5bc7-8e60-b599dd77d421",
+        "4924f7bf-4fca-5eaa-a41a-888b0a62e766",
+        "9f66997e-9cc1-57d7-85dc-81ef88d90740"
+      ]
+    },
+    {
+      "source_id": "93c4df4e61e33de7",
+      "title": "Guide to the Hague System",
+      "jurisdiction": "International",
+      "regimes": [
+        "Designs"
+      ],
+      "authority_url": "https://www.wipo.int/hague/en/",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "2e4a92358980babc6e50abb0a66f847df39cca2fdcc042ffa5372e014c30fd1a",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 3,
+      "chunk_ids": [
+        "4d39110b-874d-5aaf-b71d-f2aaed88c1ab",
+        "77d94a3b-c5e0-5c0a-9971-1636ce184808",
+        "ddc425e4-af55-5748-8f0a-314b3d181a51"
+      ]
+    },
+    {
+      "source_id": "90d0f8a1d2337bbb",
+      "title": "Guide to the Madrid System",
+      "jurisdiction": "International",
+      "regimes": [
+        "Trademarks"
+      ],
+      "authority_url": "https://www.wipo.int/madrid/en/",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "460a73d3dbcd363c014d4b612f44d08a021a8995b7cb1ca479a1da508ec4ebb6",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 3,
+      "chunk_ids": [
+        "5ede1211-5979-5c49-acf9-bbc19c5dd118",
+        "7a51d4f6-b9d4-51fc-89b4-41b3f3465071",
+        "d1d71897-a48b-524f-91d1-93125851075e"
+      ]
+    },
+    {
+      "source_id": "4630bf6e34a209ba",
+      "title": "Guideline on Declaration of Herbal Substances and Herbal Preparations in Herbal Medicinal Products / Traditional Herbal Medicinal Products",
+      "jurisdiction": "International",
+      "regimes": [
+        "DrugRegulation"
+      ],
+      "authority_url": "https://www.ema.europa.eu/en/human-regulatory-overview/herbal-medicinal-products",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "a21f03dc1d82aabc94f08d2acab44d60845d05c36799311c3c3c5fa6f8f366ed",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 3,
+      "chunk_ids": [
+        "0180d886-2086-5036-8c33-9fe967671b54",
+        "37bbcb9c-ddee-5352-bd4b-0b6bf3c27509",
+        "c30b9d7c-0b93-5b2e-896e-4af809245419"
+      ]
+    },
+    {
+      "source_id": "af90d411bec042b1",
+      "title": "Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization",
+      "jurisdiction": "International",
+      "regimes": [
+        "ABS"
+      ],
+      "authority_url": "https://www.cbd.int/abs/",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "d28fd26c990b7a722ed041c3795d29532b4f504dc853cbb680ad12c291f0f11c",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "202d7d72-177e-5b3f-a291-1ae616dbad5f",
+        "5e838f57-ff2c-561f-9f78-60c2afb5200a",
+        "75beec31-18c1-51d7-bfe0-e753a70e7f78",
+        "be731727-2cc6-5ef7-9caa-ee811b6b644e"
+      ]
+    },
+    {
+      "source_id": "76832c3455298320",
+      "title": "Patent Cooperation Treaty (PCT)",
+      "jurisdiction": "International",
+      "regimes": [
+        "Patents"
+      ],
+      "authority_url": "https://www.wipo.int/pct/en/texts/index.html",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "a1575d49f848d6bae9b2ac9c429fb5c403ee3ce34d96616e7c65cc624ee94e84",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 5,
+      "chunk_ids": [
+        "07613636-6a7f-529a-83f0-22665ce5b9be",
+        "6c6c69d6-291b-586c-b6a4-d1af925cd833",
+        "9a89fc5a-4173-52c5-8930-13c9e2dbe737",
+        "a580ba99-10e7-50a7-978e-1767953fbf20",
+        "cf6670c5-f385-5184-b174-085d9cdf0b25"
+      ]
+    },
+    {
+      "source_id": "a6c12cca63cc2536",
+      "title": "Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001",
+      "jurisdiction": "India",
+      "regimes": [
+        "PlantVariety"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/",
+      "effective_dates": [
+        "2001"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "3a9ea1c972361bae1d0d14473a971efe216fb5fae049bca6eb95c1cdea2d7bbc",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "0338c300-2ee5-57f3-a977-4f287f4ef99a",
+        "11dfed34-2f40-5c42-b677-4296da7bfba2",
+        "b5358b55-d573-5403-9763-52f9905d3efe",
+        "bc5ee7e4-0ccc-5e0b-937e-ac5cd4687099"
+      ]
+    },
+    {
+      "source_id": "899da316a6a69e1a",
+      "title": "The Biological Diversity Act, 2002",
+      "jurisdiction": "India",
+      "regimes": [
+        "ABS"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/bitstream/123456789/21545/1/the_biological_diversity_act,_2002.pdf",
+      "effective_dates": [
+        "2002"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "e02f7f61562c347ca40435ab2bff963368b5c55b2348db16148c51b9108c9602",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 5,
+      "chunk_ids": [
+        "38714a77-004f-5997-9014-86af2d0a82f0",
+        "3be917e6-899a-5772-ab1d-3416e108fca9",
+        "41862743-26d9-552c-905c-36ecc2e34269",
+        "8ea82236-7521-5538-99ad-f21b66903260",
+        "aa137068-c257-5bda-a34a-9961dcc403d0"
+      ]
+    },
+    {
+      "source_id": "efe6db31adfe1f5c",
+      "title": "The Copyright Act, 1957",
+      "jurisdiction": "India",
+      "regimes": [
+        "Copyright"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/",
+      "effective_dates": [
+        "1957"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "308dfb3c9e733bfd41f90a1fc0b2e1dc508695be78d0032bcbb1e3303bc1f771",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "083fd136-3cf1-52ca-9c56-15fa64c9506e",
+        "9e92ae2c-9a34-571b-8df1-c5472416db39",
+        "a8ebfecf-1a23-5f84-b531-e5a305f92691",
+        "dbc701a4-af18-56c9-aa4c-b7134a5b1a6a"
+      ]
+    },
+    {
+      "source_id": "04323034a6018697",
+      "title": "The Designs Act, 2000",
+      "jurisdiction": "India",
+      "regimes": [
+        "Designs"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/",
+      "effective_dates": [
+        "2000"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "7cbda4c11abacc9c1ae5300f1e7fada48c0343df7cd72f19cc8d48176179ab1c",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "031e156f-058c-5353-b02e-df19b57e15f6",
+        "289f8ff8-1a37-51af-8bf2-70b9c96807e8",
+        "a11adb2a-3f64-5ec1-a335-e8b1181f66b8",
+        "a129056a-1482-5996-b075-916848409c76"
+      ]
+    },
+    {
+      "source_id": "7c26847692021915",
+      "title": "The Drugs and Cosmetics Act, 1940",
+      "jurisdiction": "India",
+      "regimes": [
+        "DrugRegulation"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/bitstream/123456789/18562/1/the_drugs_and_cosmetics_act,_1940.pdf",
+      "effective_dates": [
+        "1940"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "ca154f88abdaa72b96b7503d145f5fb4a5a34742325450c3c92804387388687f",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 3,
+      "chunk_ids": [
+        "119ecdc8-2238-584a-ae7f-21cc4da089f7",
+        "32d87538-630a-587a-8de5-e90d496cb504",
+        "ea336ff3-6acc-5f4a-9a25-fc8c88f2d247"
+      ]
+    },
+    {
+      "source_id": "62b47a7e189b7446",
+      "title": "The Patents Act, 1970",
+      "jurisdiction": "India",
+      "regimes": [
+        "Patents"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf",
+      "effective_dates": [
+        "1970"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "452203f5556408a3cb1fd6456eafb5194827dd963c06a23454ef151f3923bafd",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 8,
+      "chunk_ids": [
+        "0ed2b9af-65ae-551d-b3f9-ce5a7b3548bf",
+        "8b9ecd11-1c2e-5753-b9b1-958be7132378",
+        "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+        "9abc772d-e8ba-57df-b27d-2198b241dd63",
+        "b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+        "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+        "e5732788-58f8-5870-83c1-1f20f5c24ba8",
+        "e6c0597c-82e8-5feb-8e27-73ef4c898373"
+      ]
+    },
+    {
+      "source_id": "728f9753768e1856",
+      "title": "The Trade Marks Act, 1999",
+      "jurisdiction": "India",
+      "regimes": [
+        "Trademarks"
+      ],
+      "authority_url": "https://www.indiacode.nic.in/",
+      "effective_dates": [
+        "1999"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "68d56f6e8ee9a81fa3405e00289f2b727060fc3c7894ad39f43113bef9ed0b07",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 4,
+      "chunk_ids": [
+        "070bbaef-0140-52af-996d-b5b370714b69",
+        "57a6e9d8-8bd0-59cb-9842-3deccbfb2c30",
+        "c2bf51bc-fc38-5e2b-9d8c-226bc934ec79",
+        "f95d6d3f-da90-51cd-b308-b6085c6b32fb"
+      ]
+    },
+    {
+      "source_id": "abcf27f3f98013b6",
+      "title": "Traditional Knowledge Digital Library (TKDL)",
+      "jurisdiction": "India",
+      "regimes": [
+        "TK"
+      ],
+      "authority_url": "https://www.csir.res.in/en/documents/tkdl",
+      "effective_dates": [],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "93e71720d964dcc474ee208911a1f041d86dc4a44816881e3a2d967e957280a3",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 5,
+      "chunk_ids": [
+        "0697285a-10f2-53a0-980d-03b7c4d26c25",
+        "0f5655d2-63c5-5570-8f02-c511ba4c99b9",
+        "743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+        "8d589c3c-866b-518c-aefc-611ee2cb9bf7",
+        "99cad1d5-befd-52c6-8043-a436e01579b7"
+      ]
+    },
+    {
+      "source_id": "2fe8487076870fae",
+      "title": "WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (2024)",
+      "jurisdiction": "International",
+      "regimes": [
+        "TK"
+      ],
+      "authority_url": "https://www.wipo.int/en/web/treaties/ip/gratk/index",
+      "effective_dates": [
+        "2024"
+      ],
+      "versions": [
+        "Researcher notes extracted 2026-08-28"
+      ],
+      "checksum": "496c519ee1ad2a5e5ae7ded93ff59ba3a54da3694d1c553c3368d6c1365b54cb",
+      "reviewer": null,
+      "review_date": null,
+      "chunk_count": 5,
+      "chunk_ids": [
+        "0c0052cc-e3c3-5047-88bb-f5459fdeb54f",
+        "18027cc2-9da5-50e9-9a1b-1f6d9a115a5c",
+        "42923ba9-19ca-5469-9aaf-0a90157a0a35",
+        "46017633-44c6-5f0c-90c0-4ea06b15a127",
+        "51aaeb23-39f7-51df-bba7-6f8e3cc894e8"
+      ]
+    }
+  ]
+}

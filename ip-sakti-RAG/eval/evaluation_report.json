@@ -1,0 +1,342 @@
+{
+  "report_version": 1,
+  "case_count": 4,
+  "abstention_accuracy": 1.0,
+  "jurisdiction_accuracy": 1.0,
+  "answer_accuracy": 1.0,
+  "citation_accuracy": 1.0,
+  "abstained_count": 1,
+  "citation_coverage": 0.75,
+  "metric_notes": {
+    "empty_dataset": "Metrics are null when labeled_queries.json contains no cases.",
+    "labels": "Answer and citation accuracy use only cases declaring expected_answer_contains or expected_citation_source_title."
+  },
+  "results": [
+    {
+      "query": "What does Section 3(p) of the Patents Act say about traditional knowledge?",
+      "expected_abstained": false,
+      "expected_jurisdiction": "India",
+      "actual": {
+        "jurisdiction": "India",
+        "answer_text": "From the retrieved corpus: Section 3(p) - Traditional knowledge bar An invention which, in effect, is traditional knowledge, or which is an aggregation or duplication of known properties of a traditionally known component or components, is not patentable. (The Patents Act, 1970, Section 3(p) - Traditional knowledge bar). 3(p): traditional knowledge or mere aggregation of known TK properties → not patentable. (The Patents Act, 1970, Overview - Quick recap for exams). Context Section 3 of the Patents Act, 1970 lists categories that are excluded from the definition of a patentable 'invention'. (The Patents Act, 1970, Overview - Context). This is legal information, not legal advice. Please verify with the relevant statute or a qualified legal/IP professional before acting.",
+        "citations": [
+          {
+            "chunk_id": "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+            "source_title": "The Patents Act, 1970",
+            "section_or_article": "Section 3(p) - Traditional knowledge bar",
+            "jurisdiction": "India",
+            "regime": "Patents",
+            "source_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf"
+          },
+          {
+            "chunk_id": "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+            "source_title": "The Patents Act, 1970",
+            "section_or_article": "Overview - Quick recap for exams",
+            "jurisdiction": "India",
+            "regime": "Patents",
+            "source_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf"
+          },
+          {
+            "chunk_id": "b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+            "source_title": "The Patents Act, 1970",
+            "section_or_article": "Overview - Context",
+            "jurisdiction": "India",
+            "regime": "Patents",
+            "source_url": "https://www.indiacode.nic.in/bitstream/123456789/1392/1/A1970-39.pdf"
+          }
+        ],
+        "confidence_score": 1.0,
+        "confidence_label": "High",
+        "abstained": false,
+        "escalation_suggested": false,
+        "query_analysis": {
+          "rewritten_query": "What does Section 3(p) of the Patents Act say about traditional knowledge?. traditional knowledge Section 3(p) TKDL prior art Relevant regimes: Patents, TK.",
+          "sub_questions": [
+            "What does Section 3(p) of the Patents Act say about traditional knowledge?"
+          ],
+          "likely_regimes": [
+            "Patents",
+            "TK"
+          ],
+          "is_multi_step": true
+        },
+        "retrieved_chunk_ids": [
+          "9919ad2b-b9b4-5399-9eea-ebcbf754bf4c",
+          "e2a74c85-cf57-5fa8-8b41-c6f5d4e41591",
+          "b0807aec-1d1c-5616-9abc-19ffb27c51d0",
+          "743f62cd-843d-5acc-b689-5d50fc8bf2fe",
+          "0f5655d2-63c5-5570-8f02-c511ba4c99b9"
+        ],
+        "claim_verification_detail": [
+          {
+            "claim_text": "Section 3(p) - Traditional knowledge bar An invention which, in effect, is traditional knowledge, or which is an aggregation or duplication of known properties of a traditionally known component or components, is not patentable.",
+            "supporting_passage_numbers": [
+              1
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          },
+          {
+            "claim_text": "3(p): traditional knowledge or mere aggregation of known TK properties → not patentable.",
+            "supporting_passage_numbers": [
+              2
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          },
+          {
+            "claim_text": "Context Section 3 of the Patents Act, 1970 lists categories that are excluded from the definition of a patentable 'invention'.",
+            "supporting_passage_numbers": [
+              3
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          }
+        ],
+        "classification_context": null,
+        "disclaimer": "This is legal information, not legal advice. Please verify with the official statute, rule, treaty, or a qualified legal/IP professional before taking action."
+      },
+      "abstention_match": true,
+      "jurisdiction_match": true,
+      "answer_match": true,
+      "citation_match": true,
+      "answer_labelled": true,
+      "citation_labelled": true
+    },
+    {
+      "query": "How are geographical indications registered in India?",
+      "expected_abstained": false,
+      "expected_jurisdiction": "India",
+      "actual": {
+        "jurisdiction": "India",
+        "answer_text": "From the retrieved corpus: Key definitions (Section 2) Geographical Indication: an indication identifying goods as originating in a region/locality of India, where a given quality, reputation or characteristic is essentially attributable to that geographical origin (covers agricultural, natural or manufactured goods, incl. (Geographical Indications of Goods (Registration & Protection) Act, 1999, Overview - Key definitions (Section 2)). Purpose Provides for the registration and better protection of geographical indications (GIs) relating to goods in India, in compliance with India's TRIPS obligations (Articles 22-24). (Geographical Indications of Goods (Registration & Protection) Act, 1999, Overview - Purpose). Registration scheme Application filed with the Registrar of Geographical Indications, Chennai; examined, published in the GI Journal, subject to opposition, then registered. (Geographical Indications of Goods (Registration & Protection) Act, 1999, Overview - Registration scheme). This is legal information, not legal advice. Please verify with the relevant statute or a qualified legal/IP professional before acting.",
+        "citations": [
+          {
+            "chunk_id": "07b88286-6f71-59bd-949a-05ad7a28cd22",
+            "source_title": "Geographical Indications of Goods (Registration & Protection) Act, 1999",
+            "section_or_article": "Overview - Key definitions (Section 2)",
+            "jurisdiction": "India",
+            "regime": "GI",
+            "source_url": "https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf"
+          },
+          {
+            "chunk_id": "9f66997e-9cc1-57d7-85dc-81ef88d90740",
+            "source_title": "Geographical Indications of Goods (Registration & Protection) Act, 1999",
+            "section_or_article": "Overview - Purpose",
+            "jurisdiction": "India",
+            "regime": "GI",
+            "source_url": "https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf"
+          },
+          {
+            "chunk_id": "08880731-93be-5bc7-8e60-b599dd77d421",
+            "source_title": "Geographical Indications of Goods (Registration & Protection) Act, 1999",
+            "section_or_article": "Overview - Registration scheme",
+            "jurisdiction": "India",
+            "regime": "GI",
+            "source_url": "https://www.indiacode.nic.in/bitstream/123456789/1981/1/a199948.pdf"
+          }
+        ],
+        "confidence_score": 0.927,
+        "confidence_label": "High",
+        "abstained": false,
+        "escalation_suggested": false,
+        "query_analysis": {
+          "rewritten_query": "How are geographical indications registered in India? Relevant regimes: GI.",
+          "sub_questions": [
+            "How are geographical indications registered in India?"
+          ],
+          "likely_regimes": [
+            "GI"
+          ],
+          "is_multi_step": false
+        },
+        "retrieved_chunk_ids": [
+          "07b88286-6f71-59bd-949a-05ad7a28cd22",
+          "9f66997e-9cc1-57d7-85dc-81ef88d90740",
+          "08880731-93be-5bc7-8e60-b599dd77d421",
+          "4924f7bf-4fca-5eaa-a41a-888b0a62e766"
+        ],
+        "claim_verification_detail": [
+          {
+            "claim_text": "Key definitions (Section 2) Geographical Indication: an indication identifying goods as originating in a region/locality of India, where a given quality, reputation or characteristic is essentially attributable to that geographical origin (covers agricultural, natural or manufactured goods, incl.",
+            "supporting_passage_numbers": [
+              1
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          },
+          {
+            "claim_text": "Purpose Provides for the registration and better protection of geographical indications (GIs) relating to goods in India, in compliance with India's TRIPS obligations (Articles 22-24).",
+            "supporting_passage_numbers": [
+              2
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          },
+          {
+            "claim_text": "Registration scheme Application filed with the Registrar of Geographical Indications, Chennai; examined, published in the GI Journal, subject to opposition, then registered.",
+            "supporting_passage_numbers": [
+              3
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          }
+        ],
+        "classification_context": null,
+        "disclaimer": "This is legal information, not legal advice. Please verify with the official statute, rule, treaty, or a qualified legal/IP professional before taking action."
+      },
+      "abstention_match": true,
+      "jurisdiction_match": true,
+      "answer_match": true,
+      "citation_match": true,
+      "answer_labelled": false,
+      "citation_labelled": true
+    },
+    {
+      "query": "What does TRIPS cover for intellectual property protection?",
+      "expected_abstained": false,
+      "expected_jurisdiction": "International",
+      "actual": {
+        "jurisdiction": "International",
+        "answer_text": "From the retrieved corpus: What it is A WTO Agreement (1994) setting minimum global standards for IP protection and enforcement, binding on all WTO member states, including India. (Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), Overview - What it is). Article 39 - Protection of undisclosed information Members must protect undisclosed information (trade secrets) against unfair-competition-style misuse, provided it is (a) secret, (b) has commercial value because it is secret, and (c) has been subject to reasonable steps to keep it secret. (Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), Article 39 - Protection of undisclosed information). Members MAY also exclude: (a) diagnostic, therapeutic and surgical methods for treating humans or animals; (b) plants and animals (other than micro-organisms) and essentially biological processes for producing plants/animals (non-biological/microbiological processes must still be patentable) - BUT members must protect plant varieties either by patents, an effective sui generis system, or a combination (this is the TRIPS basis for India's PPV&FR Act, 2001). (Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS), Article 27 - Patentable subject matter). This is legal information, not legal advice. Please verify with the relevant statute or a qualified legal/IP professional before acting.",
+        "citations": [
+          {
+            "chunk_id": "397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+            "source_title": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+            "section_or_article": "Overview - What it is",
+            "jurisdiction": "International",
+            "regime": "Patents",
+            "source_url": "https://www.wto.org/english/docs_e/legal_e/27-trips.pdf"
+          },
+          {
+            "chunk_id": "367da042-6cd9-5ac9-a122-63646fb9f9bf",
+            "source_title": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+            "section_or_article": "Article 39 - Protection of undisclosed information",
+            "jurisdiction": "International",
+            "regime": "Patents",
+            "source_url": "https://www.wto.org/english/docs_e/legal_e/27-trips.pdf"
+          },
+          {
+            "chunk_id": "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+            "source_title": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)",
+            "section_or_article": "Article 27 - Patentable subject matter",
+            "jurisdiction": "International",
+            "regime": "Patents",
+            "source_url": "https://www.wto.org/english/docs_e/legal_e/27-trips.pdf"
+          }
+        ],
+        "confidence_score": 1.0,
+        "confidence_label": "High",
+        "abstained": false,
+        "escalation_suggested": false,
+        "query_analysis": {
+          "rewritten_query": "What does TRIPS cover for intellectual property protection?",
+          "sub_questions": [
+            "What does TRIPS cover for intellectual property protection?"
+          ],
+          "likely_regimes": [],
+          "is_multi_step": false
+        },
+        "retrieved_chunk_ids": [
+          "397c91b9-f923-59b1-a06c-e94f5d2fbd12",
+          "367da042-6cd9-5ac9-a122-63646fb9f9bf",
+          "5b76e2e5-87dd-5706-8b8e-f9723a48c7b4",
+          "96e98fbb-eb20-505b-959e-0ec84bc3701c",
+          "07613636-6a7f-529a-83f0-22665ce5b9be"
+        ],
+        "claim_verification_detail": [
+          {
+            "claim_text": "What it is A WTO Agreement (1994) setting minimum global standards for IP protection and enforcement, binding on all WTO member states, including India.",
+            "supporting_passage_numbers": [
+              1
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          },
+          {
+            "claim_text": "Article 39 - Protection of undisclosed information Members must protect undisclosed information (trade secrets) against unfair-competition-style misuse, provided it is (a) secret, (b) has commercial value because it is secret, and (c) has been subject to reasonable steps to keep it secret.",
+            "supporting_passage_numbers": [
+              2
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          },
+          {
+            "claim_text": "Members MAY also exclude: (a) diagnostic, therapeutic and surgical methods for treating humans or animals; (b) plants and animals (other than micro-organisms) and essentially biological processes for producing plants/animals (non-biological/microbiological processes must still be patentable) - BUT members must protect plant varieties either by patents, an effective sui generis system, or a combination (this is the TRIPS basis for India's PPV&FR Act, 2001).",
+            "supporting_passage_numbers": [
+              3
+            ],
+            "verification": {
+              "relationship": "entailment",
+              "reasoning": "Lexical support ratio 1.00."
+            },
+            "verified": true
+          }
+        ],
+        "classification_context": null,
+        "disclaimer": "This is legal information, not legal advice. Please verify with the official statute, rule, treaty, or a qualified legal/IP professional before taking action."
+      },
+      "abstention_match": true,
+      "jurisdiction_match": true,
+      "answer_match": true,
+      "citation_match": true,
+      "answer_labelled": false,
+      "citation_labelled": true
+    },
+    {
+      "query": "Tell me the legal answer to an unrelated cooking question.",
+      "expected_abstained": true,
+      "expected_jurisdiction": "India",
+      "actual": {
+        "answer_text": "I can answer only Ayurveda IPR and regulatory questions covered by the approved corpus.",
+        "citations": [],
+        "confidence_score": 0.0,
+        "confidence_label": "Low",
+        "abstained": true,
+        "escalation_suggested": true,
+        "query_analysis": {
+          "rewritten_query": "Tell me the legal answer to an unrelated cooking question.",
+          "sub_questions": [
+            "Tell me the legal answer to an unrelated cooking question."
+          ],
+          "likely_regimes": [],
+          "is_multi_step": false
+        },
+        "retrieved_chunk_ids": [],
+        "claim_verification_detail": [],
+        "jurisdiction": "India",
+        "disclaimer": "This is legal information, not legal advice. Please verify with the official statute, rule, treaty, or a qualified legal/IP professional before taking action."
+      },
+      "abstention_match": true,
+      "jurisdiction_match": true,
+      "answer_match": true,
+      "citation_match": true,
+      "answer_labelled": false,
+      "citation_labelled": false
+    }
+  ]
+}

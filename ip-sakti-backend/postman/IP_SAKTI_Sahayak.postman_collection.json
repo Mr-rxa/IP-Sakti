@@ -1,0 +1,513 @@
+{
+  "info": {
+    "_postman_id": "8f5a2b13-92b7-4c48-8df0-7d6f5a3b9012",
+    "name": "IP-SAKTI Sahayak Backend API",
+    "description": "Comprehensive Postman API collection for IP-SAKTI Sahayak (SIH26045) — Multilingual RAG Assistant for Ayurveda IPR & Regulatory Guidance.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "01 - Session Management",
+      "item": [
+        {
+          "name": "Create Session",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "pm.test(\"Status code is 200\", function () {",
+                  "    pm.response.to.have.status(200);",
+                  "});",
+                  "var jsonData = pm.response.json();",
+                  "if (jsonData.session_id) {",
+                  "    pm.environment.set(\"session_id\", jsonData.session_id);",
+                  "    console.log(\"Saved session_id: \" + jsonData.session_id);",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{}"
+            },
+            "url": {
+              "raw": "{{base_url}}/session",
+              "host": ["{{base_url}}"],
+              "path": ["session"]
+            },
+            "description": "Creates a new user session and returns a session_id."
+          },
+          "response": []
+        },
+        {
+          "name": "Set Jurisdiction to India",
+          "request": {
+            "method": "PATCH",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"jurisdiction\": \"India\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/session/{{session_id}}/jurisdiction",
+              "host": ["{{base_url}}"],
+              "path": ["session", "{{session_id}}", "jurisdiction"]
+            },
+            "description": "Sets jurisdiction toggle to 'India' for the active session."
+          },
+          "response": []
+        },
+        {
+          "name": "Set Jurisdiction to International",
+          "request": {
+            "method": "PATCH",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"jurisdiction\": \"International\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/session/{{session_id}}/jurisdiction",
+              "host": ["{{base_url}}"],
+              "path": ["session", "{{session_id}}", "jurisdiction"]
+            },
+            "description": "Sets jurisdiction toggle to 'International' for the active session."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "02 - Formulation Classification",
+      "item": [
+        {
+          "name": "Start Classification Flow",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/classification/start",
+              "host": ["{{base_url}}"],
+              "path": ["classification", "start"]
+            },
+            "description": "Starts the guided formulation classification decision tree."
+          },
+          "response": []
+        },
+        {
+          "name": "Submit Answer - Classical (Yes to Q1)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\",\n  \"question_id\": \"q1\",\n  \"answer\": \"Yes\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/classification/answer",
+              "host": ["{{base_url}}"],
+              "path": ["classification", "answer"]
+            },
+            "description": "Submits 'Yes' to Q1, resulting in final classification as 'Classical/Generic Medicine'."
+          },
+          "response": []
+        },
+        {
+          "name": "Submit Answer - Non-Classical (No to Q1 -> Next Question)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\",\n  \"question_id\": \"q1\",\n  \"answer\": \"No\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/classification/answer",
+              "host": ["{{base_url}}"],
+              "path": ["classification", "answer"]
+            },
+            "description": "Submits 'No' to Q1, transitioning to Q2 (use-case question)."
+          },
+          "response": []
+        },
+        {
+          "name": "Submit Answer - Therapeutic Use (Q2 -> Q3)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\",\n  \"question_id\": \"q2_non_classical\",\n  \"answer\": \"Therapeutic Treatment\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/classification/answer",
+              "host": ["{{base_url}}"],
+              "path": ["classification", "answer"]
+            },
+            "description": "Submits 'Therapeutic Treatment' to Q2, transitioning to Q3."
+          },
+          "response": []
+        },
+        {
+          "name": "Submit Answer - Phytopharmaceutical (Q3)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\",\n  \"question_id\": \"q3_therapeutic\",\n  \"answer\": \"Standardized Botanical Fraction\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/classification/answer",
+              "host": ["{{base_url}}"],
+              "path": ["classification", "answer"]
+            },
+            "description": "Submits 'Standardized Botanical Fraction', resulting in 'Phytopharmaceutical' classification."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "03 - Grounded RAG & Query",
+      "item": [
+        {
+          "name": "Query - India Jurisdiction (Patents Act Section 3(p))",
+          "event": [
+            {
+              "listen": "test",
+              "script": {
+                "exec": [
+                  "pm.test(\"Status code is 200\", function () {",
+                  "    pm.response.to.have.status(200);",
+                  "});",
+                  "var jsonData = pm.response.json();",
+                  "if (jsonData.query_id) {",
+                  "    pm.environment.set(\"query_id\", jsonData.query_id);",
+                  "    console.log(\"Saved query_id: \" + jsonData.query_id);",
+                  "}"
+                ],
+                "type": "text/javascript"
+              }
+            }
+          ],
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\",\n  \"query_text\": \"Can I patent a classical formulation from Charaka Samhita that I slightly modified?\",\n  \"jurisdiction\": \"India\",\n  \"classification_context\": \"Classical/Generic Medicine\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/query",
+              "host": ["{{base_url}}"],
+              "path": ["query"]
+            },
+            "description": "Submits a natural language query for India jurisdiction. Returns grounded answer with Section 3(p) citation."
+          },
+          "response": []
+        },
+        {
+          "name": "Query - International Jurisdiction (WIPO / TRIPS)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\",\n  \"query_text\": \"What are the mandatory disclosure requirements for genetic resources and traditional knowledge under WIPO?\",\n  \"jurisdiction\": \"International\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/query",
+              "host": ["{{base_url}}"],
+              "path": ["query"]
+            },
+            "description": "Submits a query isolated to the International legal layer."
+          },
+          "response": []
+        },
+        {
+          "name": "Query - Safe Abstention (Out of Scope Query)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\",\n  \"query_text\": \"What is the capital of France and what is the recipe for chocolate cake?\",\n  \"jurisdiction\": \"India\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/query",
+              "host": ["{{base_url}}"],
+              "path": ["query"]
+            },
+            "description": "Demonstrates safe abstention when query is outside corpus domain scope."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "04 - TKDL & Prior Art",
+      "item": [
+        {
+          "name": "Lookup TKDL Prior Art (Ashwagandha)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/tkdl/lookup?keyword=Ashwagandha",
+              "host": ["{{base_url}}"],
+              "path": ["tkdl", "lookup"],
+              "query": [
+                {
+                  "key": "keyword",
+                  "value": "Ashwagandha"
+                }
+              ]
+            },
+            "description": "Performs illustrative TKDL prior art reference lookup."
+          },
+          "response": []
+        },
+        {
+          "name": "Lookup TKDL Prior Art (Curcumin)",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/tkdl/lookup?keyword=Curcumin",
+              "host": ["{{base_url}}"],
+              "path": ["tkdl", "lookup"],
+              "query": [
+                {
+                  "key": "keyword",
+                  "value": "Curcumin"
+                }
+              ]
+            },
+            "description": "Looks up proprietary extract prior art."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "05 - ABS & Biodiversity Compliance",
+      "item": [
+        {
+          "name": "Get ABS Checklist - Classical Medicine",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/abs/checklist?classification=Classical/Generic Medicine",
+              "host": ["{{base_url}}"],
+              "path": ["abs", "checklist"],
+              "query": [
+                {
+                  "key": "classification",
+                  "value": "Classical/Generic Medicine"
+                }
+              ]
+            },
+            "description": "Returns rule-based ABS checklist for classical formulations."
+          },
+          "response": []
+        },
+        {
+          "name": "Get ABS Checklist - Patent/Proprietary Medicine",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/abs/checklist?classification=Patent-or-Proprietary Medicine",
+              "host": ["{{base_url}}"],
+              "path": ["abs", "checklist"],
+              "query": [
+                {
+                  "key": "classification",
+                  "value": "Patent-or-Proprietary Medicine"
+                }
+              ]
+            },
+            "description": "Returns rule-based ABS checklist for patent/proprietary products."
+          },
+          "response": []
+        },
+        {
+          "name": "Get ABS Checklist - Phytopharmaceutical",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/abs/checklist?classification=Phytopharmaceutical",
+              "host": ["{{base_url}}"],
+              "path": ["abs", "checklist"],
+              "query": [
+                {
+                  "key": "classification",
+                  "value": "Phytopharmaceutical"
+                }
+              ]
+            },
+            "description": "Returns rule-based ABS checklist for phytopharmaceutical drugs."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "06 - Facilitator Escalation",
+      "item": [
+        {
+          "name": "Log Escalation Request",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"session_id\": \"{{session_id}}\",\n  \"query_id\": \"{{query_id}}\",\n  \"user_contact_optional\": \"vaidya.sharma@example.com\",\n  \"reason\": \"Need human patent attorney consultation for novel extraction method.\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/escalate",
+              "host": ["{{base_url}}"],
+              "path": ["escalate"]
+            },
+            "description": "Logs an escalation request to a human IP facilitator."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "07 - Multilingual Translation",
+      "item": [
+        {
+          "name": "Translate Text (English to Hindi)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"text\": \"Can I patent this formulation?\",\n  \"target_language\": \"hi\",\n  \"source_language\": \"en\"\n}"
+            },
+            "url": {
+              "raw": "{{base_url}}/translate",
+              "host": ["{{base_url}}"],
+              "path": ["translate"]
+            },
+            "description": "Translates query text to Hindi (Bhashini-ready demo stub)."
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "08 - System & Health",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/health",
+              "host": ["{{base_url}}"],
+              "path": ["health"]
+            },
+            "description": "Liveness and readiness check."
+          },
+          "response": []
+        },
+        {
+          "name": "Get Corpus Version",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "{{base_url}}/corpus/version",
+              "host": ["{{base_url}}"],
+              "path": ["corpus", "version"]
+            },
+            "description": "Returns legal corpus version and indexed amendment details."
+          },
+          "response": []
+        }
+      ]
+    }
+  ]
+}

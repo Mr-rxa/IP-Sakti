@@ -1,0 +1,30 @@
+[
+	{
+		"query": "What does Section 3(p) of the Patents Act say about traditional knowledge?",
+		"jurisdiction": "India",
+		"expected_jurisdiction": "India",
+		"expected_abstained": false,
+		"expected_answer_contains": ["traditional knowledge"],
+		"expected_citation_source_title": "The Patents Act, 1970"
+	},
+	{
+		"query": "How are geographical indications registered in India?",
+		"jurisdiction": "India",
+		"expected_jurisdiction": "India",
+		"expected_abstained": false,
+		"expected_citation_source_title": "Geographical Indications of Goods (Registration & Protection) Act, 1999"
+	},
+	{
+		"query": "What does TRIPS cover for intellectual property protection?",
+		"jurisdiction": "International",
+		"expected_jurisdiction": "International",
+		"expected_abstained": false,
+		"expected_citation_source_title": "Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)"
+	},
+	{
+		"query": "Tell me the legal answer to an unrelated cooking question.",
+		"jurisdiction": "India",
+		"expected_jurisdiction": "India",
+		"expected_abstained": true
+	}
+]

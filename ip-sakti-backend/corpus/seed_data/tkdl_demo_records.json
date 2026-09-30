@@ -1,0 +1,37 @@
+[
+  {
+    "formulation_keyword": "Ashwagandha churna",
+    "classification": "Classical/Generic Medicine",
+    "matched_note": "Recorded in TKDL Class A61K — Prior art listed in First-Schedule authoritative Ayurvedic formulary. Strictly subject to Section 3(p) patent bar."
+  },
+  {
+    "formulation_keyword": "Triphala guggulu",
+    "classification": "Classical/Generic Medicine",
+    "matched_note": "Recorded in TKDL formulations for metabolic and digestive support. Prior art cited against standard patent applications under Indian Patents Act Section 3(p)."
+  },
+  {
+    "formulation_keyword": "Chyawanprash",
+    "classification": "Classical/Generic Medicine",
+    "matched_note": "Classical Rasayana formulation documented in Charaka Samhita. TKDL prior art protection prevents direct composition patents."
+  },
+  {
+    "formulation_keyword": "Curcumin nano-extract with enhanced bioavailability",
+    "classification": "Patent-or-Proprietary Medicine",
+    "matched_note": "Extraction method / novel drug delivery formulation. May overcome Section 3(p) if substantial technical advancement, synergistic efficacy, and novel delivery is demonstrated (subject to Section 3(d) and 3(e) scrutiny)."
+  },
+  {
+    "formulation_keyword": "Standardized Brahmi bacoside capsule",
+    "classification": "Phytopharmaceutical",
+    "matched_note": "Phytopharmaceutical drug class (Schedule Y / New Drugs Rules). Requires clinical validation, botanical standardization, and NBA Biological Diversity compliance."
+  },
+  {
+    "formulation_keyword": "Ayurvedic herbal energy tea",
+    "classification": "Ayurveda-Aahar / Nutraceutical",
+    "matched_note": "Governed by FSSAI (Ayurveda Aahar) Regulations, 2022. Not patentable as a medicine; trademark and trade secret protection applicable."
+  },
+  {
+    "formulation_keyword": "Kumkumadi skin radiance oil",
+    "classification": "Cosmetic",
+    "matched_note": "Cosmetics Rules, 2020 / Drugs and Cosmetics Act. Classical formulation cosmetic variants must follow labeling guidelines; Section 3(p) prevents exclusive patent monopoly."
+  }
+]
